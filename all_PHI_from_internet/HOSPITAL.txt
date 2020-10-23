@@ -1,0 +1,5400 @@
+Alaska Native Medical Center
+Alaska Regional Hospital
+Bartlett Regional Hospital
+Bassett Army Community Hospital
+Central Peninsula General Hospital
+Cordova Community Medical Center
+Elmendorf AFB Hospital
+Fairbanks Memorial Hospital
+Kanakanak Hospital
+PeaceHealth Ketchikan Medical Center
+Maniilaq Health Center
+Mat-Su Regional Medical Center
+Mt. Edgecumbe Hospital
+Northstar Hospital
+Norton Sound Regional Hospital
+Providence Alaska Medical Center
+Providence Kodiak Island Medical Center
+Providence Seward Medical and Care Center
+Samuel Simmonds Memorial Hospital
+Sitka Community Hospital
+South Peninsula Hospital
+St. Elias Specialty Hospital
+Wrangell Medical Center
+Yukon-Kuskokwim Delta Regional Hospital
+Indiana University Health Arnett Hospital
+Indiana University Health Bloomington Hospital
+Indiana University Health Methodist Hospital
+Select Specialty Hospital
+Select Specialty Hospital
+Select Specialty Hospital
+Select Specialty Hospital
+Select Specialty Hospital
+Select Specialty Hospital
+St. Vincent Evansville
+Audubon County Memorial Hospital and Clinics
+Avera Holy Family Hospital
+Avera Merrill Pioneer Hospital
+Alegent Health Mercy Hospital
+Boone County Hospital
+Broadlawns Medical Center
+Buchanan County Health Center
+Buena Vista Regional Medical Center
+Burgess Health Center
+Cass County Health System
+Cherokee Regional Medical Center
+CHI Health Mercy Corning
+CHI Health Mercy Council Bluffs
+CHI Health Missouri Valley
+Clarinda Regional Health Center
+Clarke County Hospital
+Community Memorial Hospital
+Compass Memorial Healthcare
+Crawford County Memorial Hospital
+Dallas County Hospital
+Davis County Hospital and Clinics
+Decatur County Hospital
+Floyd County Medical Center
+Floyd Valley Healthcare
+Fort Madison Community Hospital
+Genesis Medical Center-Davenport
+Genesis Medical Center-De Witt
+George C. Grape Community Hospital
+Great River Health System
+Greater Regional Health
+Greene County Medical Center
+Grundy County Memorial Hospital
+Gundersen Palmer Lutheran Hospital and Clinics
+Guthrie County Hospital
+Guttenberg Municipal Hospital
+Hancock County Health System
+Hansen Family Hospital
+Hawarden Regional Healthcare
+Hegg Health Center Avera
+Henry County Health Center
+Horn Memorial Hospital
+Humboldt County Memorial Hospital
+Iowa Specialty Hospital-Belmond
+Iowa Specialty Hospital-Clarion
+Jackson County Regional Health Center
+Jefferson County Health Center
+Keokuk County Health Center
+Knoxville Hospital and Clinics
+Kossuth Regional Health Center
+Lakes Regional Healthcare
+Loring Hospital
+Lucas County Health Center
+Madison County Health Care System
+Mahaska Health
+Manning Regional Healthcare Center
+Mary Greeley Medical Center
+Mercy Iowa City
+Mercy Medical Center-Cedar Rapids
+MercyOne Cedar Falls Medical Center
+MercyOne Centerville Medical Center
+MercyOne Clinton Medical Center
+MercyOne Clive Rehabilitation Hospital
+MercyOne Des Moines Medical Center
+MercyOne Dubuque Medical Center
+MercyOne Dyersville Medical Center
+MercyOne Elkader Medical Center
+MercyOne New Hampton Medical Center
+MercyOne Newton Medical Center
+MercyOne North Iowa Medical Center
+MercyOne Oelwein Medical Center
+MercyOne Primghar Medical Center
+MercyOne Siouxland Medical Center
+MercyOne Waterloo Medical Center
+MercyOne West Des Moines Medical Center
+Methodist Jennie Edmundson
+Mitchell County Regional Health Center
+Monroe County Hospital and Clinics
+Montgomery County Memorial Hospital
+Myrtue Medical Center
+Orange City Area Health System
+Osceola Regional Health Center
+Ottumwa Regional Health Center
+Palo Alto County Hospital
+Pella Regional Health Center
+Pocahontas Community Hospital
+Regional Health Services of Howard County
+Regional Medical Center
+Ringgold County Hospital
+Sanford Medical Center Sheldon
+Select Specialty Hospital-Des Moines
+Select Specialty Hospital-Quad Cities
+Shenandoah Medical Center
+Sioux Center Health
+Spencer Hospital
+Saint Anthony Regional Hospital
+Stewart Memorial Community Hospital
+Story County Medical Center
+UnityPoint Health-Allen Hospital
+UnityPoint Health-Blank Children's Hospital
+UnityPoint Health-Finley Hospital
+UnityPoint Health-Grinnell Regional Medical Center
+UnityPoint Health-Iowa Lutheran Hospital
+UnityPoint Health-Iowa Methodist Medical Center
+UnityPoint Health-Jones Regional Medical Center
+UnityPoint Health-Keokuk
+UnityPoint Health-Marshalltown
+UnityPoint Health-Methodist West Hospital
+UnityPoint Health-Saint Luke's Hospital
+UnityPoint Health-Saint Luke's, Sioux City
+UnityPoint Health-Trinity Bettendorf
+UnityPoint Health-Trinity Muscatine
+UnityPoint Health-Trinity Regional Medical Center
+University of Iowa Hospitals and Clinics
+VA Central Iowa Health Care System-DSM
+Van Buren County Hospital
+Van Diest Medical Center
+Veterans Memorial Hospital
+Virginia Gay Hospital – Vinton
+Washington County Hospital and Clinics
+Waverly Health Center
+Wayne County Hospital and Clinic System
+Winneshiek Medical Center
+AdventHealth Ottawa (formerly Ransom Memorial Hospital) – Ottawa
+AdventHealth Shawnee Mission (formerly Shawnee Mission Medical Center) – Shawnee Mission
+Allen County Hospital – Iola
+Anderson County Hospital – Garnett
+Anthony Medical Center – Anthony
+Ashland Health Center – Ashland
+Associated Eye Surgical Center – Wichita
+Atchison Hospital – Atchison
+Bob Wilson Memorial Grant County Hospital – Ulysses
+Central Kansas Medical Center – Great Bend
+Cheyenne County Hospital – Saint Francis
+Children's Mercy South – Overland Park
+Citizens Medical Center – Colby
+Clara Barton Hospital – Hoisington
+Clay County Medical Center – Clay Center
+Cloud County Health Center – Concordia
+Coffey County Hospital – Burlington
+Coffeyville Regional Medical Center – Coffeyville
+Colmery-O'Neil VA Medical Center – Topeka
+Comanche County Hospital – Coldwater
+Community HealthCare System – Onaga
+Community Memorial Hospital – Marysville
+Comprehensive Health of Planned Parenthood of Kansas and Mid-Missouri (PPKM) – Overland Park
+Crawford County Hospital District No.1 – Girard
+Cushing Memorial Hospital – Leavenworth
+Decatur Health Systems – Oberlin
+Derby Ambulatory Surgery Center – Derby
+Dwight D. Eisenhower VA Medical Center – Leavenworth
+Edwards County Hospital & Healthcare Center – Kinsley
+Ellinwood District Hospital – Ellinwood
+Ellsworth County Medical Center – Ellsworth
+Flint Hills Community Health Center – Emporia
+Fredonia Regional Hospital – Fredonia
+Fry Eye Surgery Center – Garden City
+Geary Community Hospital – Junction City
+Goodland Regional Medical Center – Goodland
+Gove County Medical Center – Quinter
+Graham County Hospital – Hill City
+Greeley County Hospital – Tribune
+Greenwood County Hospital – Eureka
+Grisell Memorial Hospital – Ransom
+Halstead Hospital – Halstead
+Hamilton County Hospital – Syracuse
+Hanover Hospital – Hanover
+Harper Hospital District No. 5 – Harper
+Hays Medical Center – Hays
+Heartland LASIK Center – Abilene
+Herington Municipal Hospital – Herington
+Hiawatha Community Hospital – Hiawatha
+Hillsboro Community Medical Center – Hillsboro
+Hodgeman County Health Center – Jetmore
+Holton Community Hospital – Holton
+Hutchinson Regional Medical Center – Hutchinson
+Jefferson County Memorial Hospital and Geriatric Center – Winchester
+Jewell County Hospital – Mankato
+Kansas City Orthopaedic Institute – Leawood
+Kansas Heart Hospital – Wichita
+Kansas Neurological Institute – Topeka
+Kansas Rehabilitation Hospital – Topeka
+Kansas Spine Hospital – Wichita
+Kansas Surgery & Recovery Center – Wichita
+Kansas Voice Center – Lawrence
+Kearny County Hospital – Lakin
+Kingman Community Hospital – Kingman
+Kiowa County Memorial Hospital – Greensburg
+Kiowa District Hospital & Manor – Kiowa
+KVC Psychiatric Hospital – Kansas City
+Labette Health – Parsons
+Lafene Health Center (Kansas State University) – Manhattan
+Lane County Hospital – Dighton
+Larned State Hospital – Larned
+Lawrence Memorial Hospital – Lawrence
+Lincoln County Hospital – Lincoln
+Lindsborg Community Hospital – Lindsborg
+Logan County Hospital – Oakley
+Manhattan Surgical Center – Manhattan
+Meade District Hospital – Meade
+Meadowbrook Rehabilitation Hospital – Gardner
+Medical Specialists Ambulatory Surgery Center – Wichita
+Medicine Lodge Memorial Hospital – Medicine Lodge
+Memorial Hospital – Abilene
+McPherson Hospital – McPherson
+Menorah Medical Center – Overland Park
+Mercy Health Center – Fort Scott
+Mercy Hospital Columbus
+Mercy Hospital – Independence
+Mercy Hospital – Moundridge
+Mercy Regional Health Center – Manhattan
+Miami County Medical Center – Paola
+Mid-America Rehabilitation Hospital – Overland Park
+Minneola District Hospital – Minneola
+Mitchell County Hospital Health Systems – Beloit
+Morris County Hospital – Council Grove
+Morton County Health System – Elkhart
+Munson Army Health Center – Fort Leavenworth
+NEK Center for Health and Wellness – Horton
+Nemaha Valley Community Hospital – Seneca
+Neosho Memorial Regional Medical Center – Chanute
+Ness County District Hospital No.2 – Ness City
+Newman Regional Health – Emporia
+Newton Medical Center – Newton
+Northeast Kansas Center for Health and Wellness – Horton
+Northwest Kansas Surgery Center – Hays
+Norton County Hospital – Norton
+Olathe Medical Center – Olathe
+Osawatomie State Hospital – Osawatomie
+Osborne County Memorial Hospital – Osborne
+Oswego Medical Center – Oswego
+Ottawa County Health Center – Minneapolis
+Overland Park Regional Medical Center – Overland Park
+Parsons State Hospital & Training Center – Parsons
+Phillips County Hospital – Phillipsburg
+Plastic Surgery Center – Wichita
+Prairie View Psychiatric Hospital – Newton
+Pratt Regional Medical Center – Pratt
+Providence Medical Center – Kansas City
+Quinlan Eye Surgery & Laser Center – Fort Scott
+Quinlan Eye Surgery & Laser Center – Pittsburg
+Rainbow Mental Health Facility – Kansas City
+Rawlins County Health Center – Atwood
+Republic County Hospital – Belleville
+Rice County Hospital District No.1 – Lyons
+Robert J. Dole VA Medical and Regional Office Center – Wichita
+Rooks County Health Center – Plainville
+Rush County Memorial Hospital – La Crosse
+Russell Regional Hospital – Russell
+Sabetha Community Hospital – Sabetha
+Saint Catherine Hospital – Garden City
+Saint Johns Maude Norton Memorial Hospital – Columbus
+St. Francis at Ellsworth – Ellsworth
+Saint John Hospital – Leavenworth
+Saint Joseph Memorial Hospital – Larned
+Saint Luke Hospital & Living Center – Marion
+Saint Luke's South – Overland Park
+Salina Regional Health Center – Salina
+Satanta District Hospital – Satanta
+Scott County Hospital – Scott City
+Sedan City Hospital – Sedan
+Select Specialty Hospital of Topeka – Topeka
+Sheridan County Health Complex – Hoxie
+Smith County Memorial Hospital – Smith Center
+South Central Kansas Regional Medical Center – Arkansas City
+Southwest Medical Center – Liberal
+Specialty Hospital of Mid-America – Overland Park
+Stafford District Hospital – Stafford
+Stanton County Health Care Facility – Johnson
+Stevens County Hospital – Hugoton
+Stormont Vail Health – Topeka
+Susan B. Allen Memorial Hospital – El Dorado
+Sumner County Hospital – Caldwell
+Sumner Regional Medical Center – Wellington
+Surgery Center of Southwest Kansas – Garden City
+Team Vision Surgery Center West – Wichita
+Trego County-Lemke Memorial Hospital – WaKeeney
+University of Kansas Health System – Kansas City
+University of Kansas Health System St. Francis Campus (formerly St. Francis Health Center) – Topeka
+University of Kansas Medical Center – Kansas City
+Via Christi Hospital (Pittsburg) – Pittsburg
+Via Christi Rehabilitation Center – Wichita
+Via Christi Riverside Medical Center – Wichita
+Via Christi St. Francis – Wichita
+Wamego City Hospital – Wamego
+Washington County Hospital – Washington
+Wesley Medical Center – Wichita
+Wesley Rehabilitation Hospital – Wichita
+Western Plains Medical Complex – Dodge City
+Wichita County Health Center – Leoti
+Wichita Specialty Hospital – Wichita
+William Newton Memorial Hospital – Winfield
+Wilson County Hospital – Neodesha
+Aurora Community Hospital
+Barnes-Jewish Hospital
+Barnes-Jewish Saint Peters Hospital
+Barnes-Jewish West County Hospital
+Barton County Memorial Hospital
+Bates County Memorial Hospital
+Boone Hospital Center
+Bothwell Regional Health Center
+Cameron Regional Medical Center
+Capital Region Medical Center
+SSM Health Cardinal Glennon Children's Hospital
+Carondelet Health
+Carondelet Health
+Cass Medical Center
+Cedar County Memorial Hospital
+Cedar County Memorial Hospital
+Centerpoint Medical Center
+CenterPointe Hospital
+Children's Mercy Hospital
+Children's Mercy Northland
+Christian Hospital
+Christian Hospital
+Citizens Memorial Healthcare
+Columbia Regional Hospital
+Cooper County Memorial Hospital
+Cox Branson
+Cox Monett
+Cox North
+Cox South
+Cox Walnut Lawn
+CoxHealth
+Crittenton Behavioral Health
+Crossroads Regional Medical Center
+Deaconess Incarnate Word Health System
+Des Peres Hospital
+Doctors Hospital of Springfield
+Eastern Missouri State Hospital
+Ellett Memorial Hospital
+Ellis Fischel Cancer Center
+Excelsior Springs Medical Center
+Fitzgibbon Hospital
+Forest Park Hospital
+Freeman Cancer Institute
+Freeman Health System
+Freeman Heart Institute
+Freeman Neosho Hospital
+Freeman Orthopaedics & Sports Medicine
+Fulton State Hospital
+General Leonard Wood Army Community Hospital
+Golden Valley Memorial Hospital
+Hannibal Regional Hospital
+Harry S. Truman Memorial Veterans' Hospital
+Hawthorn Children's Psychiatric Hospital
+HCA Midwest Division
+Heartland Behavioral Health Services
+Heartland Regional Medical Center
+Hedrick Medical Center
+Hermann Area District Hospital
+I-70 Community Hospital
+Independence Regional Health Center
+Jefferson Memorial Hospital
+John J. Pershing VA Medical Center
+Kansas City VA Medical Center
+Kindred Hospital
+Kindred Hospital
+Lafayette Regional Health Center
+Lake Regional Health System
+Lakeland Regional Hospital
+Lee's Summit Hospital
+Liberty Hospital
+Madison Medical Center
+Medical Center of Independence
+Mercy
+Mercy McCune-Brooks Hospital
+Mercy Hospital St. Louis
+Mercy Hospital South, formerly St. Anthony's Medical Center
+Mercy Hospital Washington
+Metropolitan Saint Louis Psychiatric Center
+Mid Missouri Mental Health Center
+Mineral Area Regional Medical Center
+Missouri Baptist Hospital-Sullivan
+Missouri Baptist Medical Center
+Missouri Delta Medical Center
+Missouri Rehabilitation Center
+Missouri Southern Healthcare
+Moberly Regional Medical Center
+Nevada Regional Medical Center
+North Kansas City Hospital
+Northeast Missouri Rural Health Network (NMRHN)
+Northeast Regional Medical Center
+Northwest Medical Center
+Ozarks Community Hospital
+Ozarks Medical Center
+Parkland Health Center
+Parkland Health Center
+Pemiscot Memorial Health Systems
+Perry County Memorial Hospital
+Pershing Memorial Hospital
+Phelps Health
+Pike County Memorial Hospital
+Progress West Hospital
+Putnam County Memorial Hospital
+Ranken Jordan Pediatric Specialty Hospital
+Ray County Memorial Hospital
+The Rehabilitation Institute
+The Rehabilitation Institute of St. Louis
+Research Belton Hospital
+Research Medical Center
+Research Medical Center-Brookside Campus
+Research Psychiatric Center
+Reynolds County General Memorial Hospital
+Ripley County Memorial Hospital
+Rusk Rehabilitation Center
+Sac-Osage Hospital
+Saint Alexius Hospital
+St. Anthony's Medical Center
+Saint Francis Hospital & Health Services
+Saint Francis Medical Center
+Sainte Genevieve County Memorial Hospital
+Saint John's Aurora Community Hospital
+Saint John's Breech Regional Medical Center
+Saint John's Health System
+Saint John's Hospital
+Saint John's Regional Health Center
+Saint John's Regional Medical Center
+Saint John's Saint Francis Hospital
+Saint Joseph Health Center
+Saint Joseph Hospital of Kirkwood
+Saint Joseph Hospital West
+Saint Joseph Medical Center
+St. Louis Behavioral Medicine Institute
+St. Louis Children's Hospital
+Saint Louis University Health Science Center
+Saint Louis University Hospital
+St. Louis VA Medical Center
+Saint Luke's East-Lee's Summit
+Saint Luke's Health System
+St. Luke's Hospital
+Saint Luke's Hospital
+Saint Luke's Northland Hospital
+Saint Luke's Northland Hospital
+Saint Mary's Health Center
+Saint Mary's Hospital of Blue Springs
+Salem Memorial District Hospital
+Samaritan Hospital
+Scotland County Memorial Hospital
+Select Specialty Hospital
+Shriners Hospitals for Children
+Southeast Missouri Community Treatment Center
+Southeast Missouri Hospital
+SouthPointe Hospital
+SSM DePaul Health Center
+SSM Health Care
+SSM Rehab
+SSM Saint Mary's Health Center
+Sullivan County Memorial Hospital
+Tenet St. Louis
+Texas County Memorial Hospital
+Three Rivers Healthcare
+Truman Medical Center-Hospital Hill
+Truman Medical Center-Lakewood
+Twin Rivers Regional Medical Center
+Two Rivers Psychiatric Hospital
+University Hospital
+University of Missouri Children's Hospital
+University of Missouri Health Care
+Washington County Memorial Hospital
+Washington University Medical Center
+Western Missouri Medical Center
+Western Missouri Mental Health Center
+Wright Memorial Hospital
+Androscoggin Valley Hospital
+Catholic Medical Center
+Cheshire Medical Center
+Concord Hospital
+Cottage Hospital
+Crotched Mountain Rehabilitation Center
+Dartmouth-Hitchcock Medical Center
+Elliot Hospital
+Exeter Hospital
+Franklin Regional Hospital
+Frisbie Memorial Hospital
+Hampstead Hospital
+HealthSouth Rehabilitation Hospital of Concord
+Huggins Hospital
+Lakes Region General Hospital
+Littleton Regional Hospital
+Memorial Hospital
+Monadnock Community Hospital
+New Hampshire Hospital
+New London Hospital
+Northeast Rehabilitation Hospital
+Parkland Medical Center
+Portsmouth Regional Hospital
+Southern New Hampshire Medical Center
+Speare Memorial Hospital
+St. Joseph Hospital
+Milford Medical Center
+Upper Connecticut Valley Hospital
+VA Medical Center
+Valley Regional Hospital
+Weeks Medical Center
+Wentworth-Douglass Hospital
+Ancora Psychiatric Hospital
+Ann Klein Forensic Center
+Astra Health Center
+Atlantic Rehabilitation Institute
+AtlantiCare Regional Medical Center
+AtlantiCare Regional Medical Center
+Bacharach Institute for Rehabilitation
+Bayonne Medical Center
+Bayshore Community Hospital
+Bristol-Myers Squibb Children's Hospital
+Cape Regional Medical Center
+Capital Health System (Fuld Campus)
+Capital Health System (Mercer Campus)
+Care One at Raritan Bay Medical Center
+Carrier Clinic
+CentraState Healthcare System
+Chilton Memorial Hospital
+Christ Hospital
+Christian Health Care Center
+Clara Maass Medical Center
+Community Medical Center
+Cooper University Hospital
+Deborah Heart and Lung Center
+East Mountain Hospital
+East Orange General Hospital
+Englewood Hospital and Medical Center
+Essex County Hospital
+Greystone Park Psychiatric Hospital
+Hackensack University Medical Center
+Pascack Valley Medical Center
+Hackettstown Regional Medical Center
+Hampton Behavioral Health Center
+HealthSouth
+HealthSouth
+Hoboken University Medical Center
+Holy Name Medical Center
+Hudson County Meadowview Hospital
+Hunterdon Medical Center
+Inspira Medical Center Woodbury
+Inspira Medical Center Vineland
+Inspira Medical Center Elmer
+Jersey City Medical Center
+Jersey Shore University Medical Center
+JFK Johnson Rehabilitation Institute
+JFK Medical Center
+Kessler Institute for Rehabilitation
+Kessler Institute for Rehabilitation
+Kessler Institute for Rehabilitation
+Kindred Hospital at Wayne
+Kindred Hospital at Morris
+Kindred Hospital at Rahway
+Meadowlands Hospital Medical Center
+Meadowview Psychiatric Hospital
+Lourdes Medical Center of Burlington County
+Lourdes Specialty Hospital
+Marlton Rehabilitation Hospital
+Matheny Medical and Educational Center
+Monmouth Medical Center
+Monmouth Medical Center Southern Campus
+Morristown Medical Center
+Mountainside Hospital
+New Bridge Medical Center
+Newark Beth Israel Medical Center
+Newton Medical Center
+Ocean Medical Center
+Our Lady of Lourdes Medical Center
+Overlook Medical Center
+Palisades Medical Center
+PSE&G Children's Specialized Hospital
+Raritan Bay Medical Center
+Raritan Bay Medical Center
+Rehabilitation Hospital of South Jersey
+The Rehabilitation Hospital of Tinton Falls
+The Memorial Hospital of Salem County
+Riverview Medical Center
+Robert Wood Johnson University Hospital
+Robert Wood Johnson University Hospital Somerset
+Robert Wood Johnson University Hospital at Rahway
+Robert Wood Johnson University Hospital at Hamilton
+Rutgers
+Runnells Specialized Hospital
+Saint Barnabas Behavioral Health Center
+Saint Barnabas Medical Center
+Saint Clare's Hospital at Boonton Township
+Saint Clare's Hospital at Denville
+Saint Clare's Hospital at Dover
+Saint Clare's Hospital at Sussex
+Saint Francis Medical Center
+Saint James Hospital
+Saint Michael's Medical Center
+Saint Peter's University Hospital
+St. Francis Medical Center
+St. Joseph's Regional Medical Center
+St. Joseph's Wayne Hospital
+St. Lawrence Rehabilitation Center
+St. Mary Hospital
+St. Mary's Hospital
+Select at Belleville
+Shore Memorial Hospital
+Southern Ocean County Hospital
+Specialty Hospital at Monmouth
+Summit Oaks Hospital
+Trenton Psychiatric Hospital
+Trinitas Hospital
+University Hospital
+University Medical Center at Princeton
+VA New Jersey Health Care System
+VA New Jersey Health Care System
+The Valley Hospital
+Virtua Mt Holly
+Virtua Berlin
+Virtua Marlton
+Virtua Voorhees
+St. Luke's Warren Hospital
+Weisman Children's Rehabilitation Hospital
+A.O. Fox Memorial Hospital
+Adirondack Medical Center
+Adirondack Medical Center
+Albany Medical Center
+Albany Memorial Hospital
+Alice Hyde Medical Center
+Amsterdam Memorial Hospital
+Arnot Ogden Medical Center
+Auburn Community Hospital
+Bassett Hospital Of Schoharie County
+Bath Va Medical Center
+Bayley Seton Hospital
+Beacon Center
+Behavioral Health Center at Westchester Medical Center
+Bellevue Hospital
+Bellevue Women's Hospital
+Bertrand Chaffee Hospital
+Beth Israel Medical Center
+Bethesda Hospital (North Hornell
+UHS Binghamton General Hospital
+Binghamton Psychiatric Center
+Blythedale Children's Hospital
+Bronx-Lebanon Hospital Center
+Brookdale Hospital Medical Center
+Brooklyn Hospital Center
+Brooks Memorial Hospital
+Brunswick Hospital Center Inc
+Buffalo General Hospital
+Buffalo Niagara Medical Campus
+Burke Rehabilitation Hospital
+Calvary Hospital
+Canton-Potsdam Hospital
+Carthage Area Hospital Inc
+Catskill Regional Medical Center
+Catskill Regional Medical Center
+Cayuga Medical Center at Ithaca
+Central Suffolk Hospital
+Champlain Valley Physicians Hospital
+UHS Chenango Memorial Hospital
+Children's Hospital of Buffalo
+Claxton
+Clifton Springs Hospital & Clinic
+Coler-Goldwater Specialty Hospital
+Columbia Memorial Hospital
+Community Hospital at Dobbs Ferry
+Community Memorial Hospital Inc
+Community General Hospital
+Coney Island Hospital
+Cornwall Hospital; Cornwall (now St. Luke's Cornwall Hospital
+Creedmoor Psychiatric Center
+Crouse Hospital
+UHS Delaware Valley Hospital
+Eastern Long Island Hospital
+Eddy Cohoes Rehabilitation Center
+Edward John Noble Hospital Of Gouverneur
+Edward John Noble Hospital
+Ellenville Regional Hospital
+Ellis Hospital
+Elmhurst Hospital Center
+Erie County Medical Center
+F F Thompson Hospital
+Faxton St. Luke's Healthcare
+FDR Campus Of The VA Hudson Valley Healthcare System
+Forest Hills Hospital
+Flushing Hospital Medical Center
+Four Winds Hospital
+Franklin Hospital Medical Center (Northwell Health System)
+Fulton Medical Center (Oswego Health System)
+Geneva General Hospital
+Glens Falls Hospital
+Good Samaritan Hospital (Suffern)
+Good Samaritan Hospital (West Islip)
+Gracie Square Hospital
+Guthrie Corning Hospital
+Guthrie Cortland Medical Center
+Harlem Hospital Center
+HealthAlliance Hospital: Broadway Campus
+HealthAlliance Hospital: Mary’s Avenue Campus
+Helen Hayes Hospital
+Highland Hospital
+Horton Medical Center
+Hospital for Joint Diseases
+Hospital for Special Surgery
+Hudson Valley Hospital
+Huntington Hospital (Northwell Health System)
+Inter-Community Memorial Hospital At Newfane Inc
+Interfaith Medical Center/Jewish Hospital Medical Center Of Brooklyn Div
+Interfaith Medical Center/St John's Episcopal Hospital Div
+Ira Davenport Memorial Hospital
+Jacobi Medical Center
+Jamaica Hospital Medical Center
+James J. Peters VA Medical Center
+Jewish Memorial Hospital
+John T. Mather Memorial Hospital
+Jones Memorial Health Center
+Jones Memorial Hosp
+Kenmore Mercy Hospital
+Kings County Hospital Center
+Kingsbrook Jewish Medical Center
+Lake Shore Hospital Inc
+Lakeside Memorial Hospital
+Lawrence Hospital Center
+Lenox Hill Hospital (Northwell Health System)
+Lewis County General Hospital
+Lincoln Hospital
+Little Falls Hospital
+Lockport Memorial Hospital
+Long Beach Medical Center
+Long Island College Hospital
+Long Island Community Hospital
+Long Island Jewish Medical Center (Northwell Health System)
+Manhattan Eye
+Maria Fareri Children's Hospital at Westchester Medical Center
+Mary Imogene Bassett Medical Center
+Massena Memorial Hospital
+Medina Memorial Hospital
+Memorial Sloan-Kettering Cancer Center
+Mercy Community Hospital
+Mercy Medical Center
+Methodist Hospital
+Metropolitan Hospital Center
+Metropolitan Medical and Mental Health Center
+MidHudson Regional Hospital of Westchester Medical Center
+Millard Fillmore Hospital
+Millard Fillmore Suburban Hospital
+Monroe Community Hospital
+Montefiore Medical Center
+Montefiore Nyack Hospital
+Mount Sinai Hospital
+Mount Saint Mary's Hospital
+Mount Vernon Hospital
+Newark-Wayne Community Hospital
+New York Community Hospital Of Brooklyn
+New York Flushing Hospital Medical Center
+NewYork–Presbyterian Queens
+New York Methodist Hospital
+New York Presbyterian Hospital
+New York Downtown Hospital
+New York University Tisch Hospital
+New York United Hospital Medical Center
+New York Eye and Ear Infirmary
+Niagara Falls Memorial Medical Center
+Nicholas H Noyes Memorial Hospital
+North Central Bronx Hospital
+North Shore University Hospital (Northwell Health System)
+Northern Dutchess Hospital
+Northern Westchester Hospital
+NY Eye And Ear Infirmary
+NY Flushing Hospital Medical Center North Div
+NYU Downtown Hospital
+NYU Hospitals Center
+NYU Langone Hospital – Brooklyn
+O'Connor Hospital
+Olean General Hospital/Main
+Olean General Hospital/West
+Oneida Healthcare Center
+ORBIS International
+Orange Regional Medical Center
+Oswego Hospital (Oswego Health System)
+Our Lady Of Lourdes Memorial Hospital Inc
+Our Lady Of Mercy Medical Center
+Our Lady Of Victory Hospital Of Lackawanna
+Peconic Bay Medical Center
+Phelps Memorial Hospital Center
+Plainview Hospital (Northwell Health System)
+Putnam Hospital Center
+Queens Hospital Center
+Queens Hospital Center
+Rochester General Hospital
+Rochester General Hospital
+Rockefeller University Hospital
+Rome Memorial Hospital
+Roswell Park Cancer Institute
+Rye Hospital Center
+Saint Joseph's Medical Center
+Samaritan Medical Center/Samaritan Med Ctr
+Samaritan Medical Center
+Saratoga Hospital
+Seton Health System-St Mary's Campus
+Sheehan Memorial Hospital
+Sisters Of Charity Hospital
+Soldiers And Sailors Memorial Hospital Of Yates County Inc
+Sound Shore Medical Center Of Westchester
+South Nassau Communities Hospital
+Southampton Hospital
+Southside Hospital
+St Agnes Hospital
+St Anthony Community Hospital
+St Barnabas Hospital
+St Catherine Of Siena Medical Center
+St. Charles Hospital
+St. Elizabeth Hospital
+St Francis Hospital Beacon Div
+St Francis Hospital
+St James Mercy Hospital
+St. James Mercy Hospital
+St John's Episcopal Hospital At/Community Hospital Of Smithtown
+St John's Episcopal Hospital/South Shore
+St. John's Riverside Hospital
+St Joseph Hospital Of Cheektowaga/New York
+St Joseph's Hospital Health Center / St. Joseph's Health
+St Joseph's Hospital
+St Joseph Hospital
+St Luke's Hospital
+St. Luke's-Roosevelt Hospital Center
+St Mary's Healthcare
+St. Mary's Hospital (also known as Seton Health)
+St. Peter's Hospital
+St. Vincent's Hospital Westchester
+Staten Island University Hospital
+Stony Brook University Hospital
+Strong Memorial Hospital
+State University of New York Downstate Medical Center
+Sound Shore Medical Center of Westchester
+Summit Park Hospital-Rockland County Infirmary
+Syosset Hospital (Northwell Health System)
+Tri-County Memorial Hospital
+United Memorial Medical Center
+Unity Hospital
+University Hospital Of Brooklyn
+University of Rochester Medical Center
+UPMC Chautauqua WCA
+Upstate University Hospital
+Vassar Brothers Medical Center
+Westchester Square Medical Center
+Westchester Medical Center
+Western New York VA Health Care System
+Westfield Memorial Hospital Inc
+White Plains Hospital
+UHS Wilson Medical Center
+NYU Winthrop Hospital
+Woodhull Medical and Mental Health Center
+Wyckoff Heights Medical Center
+Wyoming County Community Hospital
+Yonkers General Hospital
+Alice M. Kidd Nursing Facility
+Andalusia Regional Hospital
+Athens-Limestone Hospital
+Atmore Community Hospital
+Baptist Medical Center East
+Baptist Medical Center South
+Baypointe Hospital
+Beacon Children's Hospital
+Children's of Alabama Russell Campus
+Bibb Medical Center
+Brookwood Medical Center
+Bryan Whitfield Memorial Hospital
+Bryce Hospital
+Bullock County Hospital
+Carraway Methodist Medical Center
+Central Alabama Veterans Health Care System East Campus
+Central Alabama Veterans Health Care System West Campus
+Cherokee Medical Center
+Chilton Medical Center
+Choctaw General Hospital
+Citizens Baptist
+Clay County Hospital
+Community Hospital
+Cooper Green Mercy Hospital
+Coosa Valley Medical Center
+Crenshaw Community Hospital
+Crestwood Medical Center
+Cullman Regional Medical Center
+Dale Medical Center
+DCH Regional Medical Center
+Decatur General Hospital System
+Decatur General West Behavioral Medicine Center
+DeKalb Regional Medical Center
+D.W. McMillan Memorial Hospital
+East Alabama Medical Center
+Elba General Hospital
+Eliza Coffee Memorial Hospital
+Elmore Community Hospital
+Evergreen Medical Center
+Fayette Medical Center
+Florala Memorial Hospital
+Flowers Hospital
+Gadsden Regional Medical Center
+Georgiana Hospital
+Grandview Medical Center
+Greene County Hospital
+Greil Memorial Psychiatric Hospital
+Grove Hill Memorial Hospital
+Hale County Hospital
+Hartselle Medical Center
+HealthSouth Lakeshore Rehabilitation Hospital
+HealthSouth Rehabilitation Hospital of Dothan
+HealthSouth Rehabilitation Hospital of Gadsden
+HealthSouth Rehabilitation Hospital of Montgomery
+HealthSouth Rehabilitation Hospital of North Alabama
+Helen Keller Hospital
+Highlands Medical Center
+Hill Crest Behavioral Health Services
+Hill Hospital of Sumter County
+Huntsville Hospital System
+Infirmary LTAC Hospital
+Infirmary West
+Jack Hughston Memorial Hospital
+Jackson Hospital and Clinic
+Jackson Medical Center
+Regional Medical Center of Jacksonville
+John Paul Jones Hospital
+L.V. Stabler Memorial Hospital
+Lakeland Community Hospital
+Lake Martin Community Hospital
+Lanier Health Services
+Laurel Oaks Behavioral Health Center
+Lawrence Medical Center
+Noland Hospital, Long-Term Hospital of Anniston, LLC
+Long Term Hospital of Birmingham, LLC
+Long Term Hospital of Dothan, LLC
+Long Term Hospital of Montgomery, LLC
+Long Term Hospital of Tuscaloosa, LLC
+Madison Hospital
+Marshall Medical Center North
+Marshall Medical Center South
+Mary Starke Harper Geriatric Psychiatry Center
+Medical Center Barbour
+Medical Center Enterprise
+Medical West
+Mercy Medical
+Mizell Memorial Hospital
+Mobile Infirmary Medical Center
+Monroe County Hospital
+Mountain View Hospital
+North Alabama Regional Hospital
+North Baldwin Infirmary
+North Alabama Medical Center - Shoals Hospital
+Northeast Alabama Regional Medical Center
+Northport Medical Center
+Northwest Medical Center
+North Mississippi Medical Center - Hamilton Campus
+Parkway Medical Center
+Pickens County Medical Center
+Prattville Baptist Hospital
+Princeton Baptist Medical Center
+Providence Hospital
+Randolph Medical Center
+Red Bay Hospital
+Regional Rehabilitation Hospital
+Riverview Regional Medical Center
+Russell Medical Center
+Russellville Hospital
+Searcy Hospital
+Select Specialty Hospital - Birmingham
+Shelby Baptist Medical Center
+South Baldwin Regional Medical Center
+Southeast Alabama Medical Center
+Southwest Alabama Medical Center
+Springhill Medical Center
+St. Vincent's Blount
+St. Vincent's East
+St. Vincent's Hospital
+St. Vincent's St. Clair
+Stringfellow Memorial Hospital
+Taylor Hardin Secure Medical Facility
+Thomas Hospital
+Trinity Medical Center
+Troy Regional Medical Center
+University of Alabama Hospital, Birmingham
+UAB Callahan Eye Hospital
+UAB Highlands
+University of South Alabama Children's and Women's Hospital
+University of South Alabama Medical Center
+Vaughan Regional Medical Center
+Veterans Affairs Medical Center-Birmingham
+Veterans Affairs Medical Center-Tuscaloosa
+Walker Baptist Medical Center
+Washington County Hospital
+W. D. Partlow Developmental Center
+Wedowee Hospital
+Wiregrass Medical Center
+Woodland Medical Center
+Animas Surgical Hospital
+Arkansas Valley Regional Medical Center
+Aspen Valley Hospital
+Avista Adventist Hospital
+Banner Fort Collins Medical Center
+Boulder Community Health
+Castle Rock Adventist Hospital
+Cedar Springs Behavioral Hospital
+Centennial Peaks Hospital
+Children's Hospital Colorado
+Children's Hospital Colorado North Campus
+Children's Hospital Colorado South Campus
+Clear View Behavioral Health
+Colorado Acute Long Term Hospital
+Colorado Canyons Hospital and Medical Center
+Colorado Mental Health Institute at Fort Logan
+Colorado Mental Health Institute at Pueblo
+Colorado Plains Medical Center
+Community Hospital
+Conejos County Hospital
+Craig Hospital
+Delta County Memorial Hospital
+Denver Health Medical Center
+Denver Springs
+East Morgan County Hospital
+Eating Recovery Center a Behavioral Hospital
+Eating Recovery Center a Behavioral Hospital for Children and Adolescents
+Eating Recovery Center Behavioral Health
+Estes Park Medical Center
+Evans Army Community Hospital
+Good Samaritan Medical Center
+Grand River Medical Center
+Gunnison Valley Hospital
+Haxtun Hospital District
+HealthSouth Rehabilitation Hospital of Colorado Springs
+HealthSouth Rehabilitation Hospital of Littleton
+Heart of the Rockies Regional Medical Center
+Highlands Behavioral Health System
+Keefe Memorial Hospital
+Kindred Hospital - Denver
+Kindred Hospital - Denver South
+Kindred Hospital Aurora
+Kit Carson County Memorial Hospital
+Lincoln Community Hospital
+Littleton Adventist Hospital
+Longmont United Hospital
+Longs Peak Hospital
+Lutheran Medical Center
+McKee Medical Center
+Medical Center of the Rockies
+Melissa Memorial Hospital
+Memorial Hospital Central
+Memorial Hospital North
+Mercy Regional Medical Center
+Middle Park Medical Center
+Middle Park Medical Center - Granby
+Montrose Memorial Hospital
+Mt. San Rafael Hospital
+National Jewish Health
+North Colorado Medical Center
+North Suburban Medical Center
+Northern Colorado Long Term Acute Hospital
+Northern Colorado Rehabilitation Hospital
+OrthoColorado Hospital at St. Anthony Medical Campus
+Pagosa Springs Medical Center
+Parker Adventist Hospital
+Parkview Medical Center
+Peak View Behavioral Health
+Penrose Hospital
+Pikes Peak Regional Hospital
+Pioneers Medical Center
+Platte Valley Medical Center
+Porter Adventist Hospital
+Poudre Valley Hospital
+Presbyterian/St. Luke's Medical Center
+Prowers Medical Center
+Rangely District Hospital
+Rio Grande Hospital
+Rose Medical Center
+Saint Joseph Hospital
+San Luis Valley Regional Medical Center
+SCL Health Community Hospital - Northglenn
+SCL Health Community Hospital - Southwest
+SCL Health Community Hospital - Westminster
+Sedgwick County Memorial Hospital
+Sky Ridge Medical Center
+Southeast Colorado Hospital
+Southwest Memorial Hospital
+Spalding Rehabilitation Hospital
+Spanish Peaks Regional Health Center
+St. Anthony Hospital
+St. Anthony North Health Campus
+St. Anthony Summit Medical Center
+St. Francis Medical Center
+St. Mary's Medical Center
+St. Mary-Corwin Medical Center
+St. Thomas More Hospital
+St. Vincent General Hospital District
+Sterling Regional MedCenter
+Swedish Medical Center
+Telluride Regional Medical Center
+The Medical Center of Aurora
+The Memorial Hospital
+UCHealth Broomfield Hospital
+UCHealth Grandview Hospital
+University of Colorado Hospital
+Vail Health Hospital
+Valley View Hospital
+Vibra Long Term Acute Care Hospital
+Weisbrod Memorial County Hospital
+West Springs Hospital
+Wray Community District Hospital
+Yampa Valley Medical Center
+Yuma District Hospital
+Backus Hospital
+Bridgeport Hospital
+Bristol Hospital
+Charlotte Hungerford Hospital
+Connecticut Children's Medical Center
+Connecticut Hospice
+Connecticut Valley Hospital (psychiatric)
+Danbury Hospital
+Day Kimball Hospital
+Gaylord Hospital
+Greenwich Hospital
+Griffin Hospital
+Hartford Hospital
+Hospital for Special Care
+The Institute of Living (psychiatric, part of Hartford Hospital)
+Johnson Memorial Hospital
+Lawrence+Memorial Hospital
+Manchester Memorial Hospital
+Middlesex Hospital
+MidState Medical Center
+Milford Hospital
+Mt. Sinai Hospital (now owned by St. Francis Hospital)
+Natchaug Hospital (psychiatric, part of Hartford Hospital)
+New Milford Hospital
+Norwalk Hospital
+Rockville General Hospital
+Saint Francis Hospital & Medical Center
+Saint Mary's Hospital
+Sharon Hospital
+Silver Hill Hospital (psychiatric)
+St. Vincent's Medical Center
+Stamford Hospital
+The Hospital of Central Connecticut  New Britain General Campus
+The Hospital of Central Connecticut  Bradley Memorial Campus
+University of Connecticut Health Center/John Dempsey Hospital
+Newington Campus (US Veterans Administration)
+West Haven Campus (US Veterans Administration)
+Waterbury Hospital
+Windham Hospital
+Yale-New Haven Hospital
+Yale-New Haven Children's Hospital (a division of Yale-New Haven Hospital)
+Yale-New Haven Psychiatric Hospital (a division of Yale-New Haven Hospital)
+A.G. Holley State Hospital (closed)
+Arnold Palmer Hospital for Children
+Aventura Hospital Medical Center
+Baptist Children's Hospital
+Baptist Hospital
+Baptist Hospital of Miami
+Baptist Medical Center
+Baptist Medical Center Beaches
+Baptist Medical Center Nassau
+Baptist Medical Center South
+Bartow Regional Medical Center
+Bay Medical Center
+Bay Pines VA Healthcare System
+BayCare Alliant Hospital
+Bayfront Health Port Charlotte
+Bayfront Health Punta Gorda
+Bayfront Health St. Petersburg
+Beraja Medical Institute
+Bethesda Memorial Hospital
+Blake Medical Center
+Boca Raton Regional Hospital
+Bonita Community Health Center
+Brandon Regional Hospital
+Brooks Rehabilitation
+Brooksville Regional Medical Center
+Broward Health Medical Center
+Broward Health Weston
+Campbellton-Graceville Hospital
+Cape Canaveral Hospital
+Cape Coral Hospital
+Capital Regional Medical Center
+Cedars Medical Center
+Central Florida Regional Hospital
+Chris Evert Children's Hospital
+Citrus Memorial Hospital
+Cleveland Clinic Hospital
+JFK Medical Center North Campus
+Columbia Miami Heart Institute
+Community Hospital
+Coral Gables Hospital
+Broward Health Coral Springs
+Delray Medical Center
+DeSoto Memorial Hospital
+Doctors Hospital (Coral Gables, Florida)
+Doctors Hospital (Sarasota, Florida)
+Dr. P. Phillips Hospital
+Ed Fraser Memorial Hospital
+Edward White Hospital (closed)
+Englewood Community Hospital
+Fawcett Memorial Hospital
+Fishermen's Community Hospital
+Flagler Hospital
+Florida A&M Hospital (closed)
+Florida Hospital Altamonte
+Florida Hospital Apopka
+Florida Hospital at Connerton Long Term Acute Care
+Florida Hospital Carrollwood
+Florida Hospital Celebration Health
+Florida Hospital DeLand
+Florida Hospital East Orlando
+Florida Hospital Fish Memorial
+Florida Hospital Flagler
+Florida Hospital for Children
+Florida Hospital Heartland Medical Center
+Florida Hospital Kissimmee
+Florida Hospital Lake Placid
+Florida Hospital Memorial Medical Center
+Florida Hospital New Smyrna
+Florida Hospital North Pinellas (formerly Helen Ellis Memorial Hospital)
+Florida Hospital Oceanside (closed)
+(closed in 2017 after Hurricane Irma damage proved too costly to reopen)
+Florida Hospital Orlando
+Florida Hospital Pepin Heart Institute
+Florida Hospital Tampa
+Florida Hospital Waterman
+Florida Hospital Wauchula
+Florida Hospital Wesley Chapel
+Florida Hospital Zephyrhills
+Florida Medical Center
+Florida State Hospital
+Fort Walton Beach Medical Center
+Gadsden Community Hospital
+Glades General Hospital
+Good Samaritan Medical Center (West Palm Beach)
+Golisano Children's Hospital of Southwest Florida
+Gulf Breeze Hospital
+Gulf Coast Medical Center
+Gulf Coast Regional Medical Center
+H. Lee Moffitt Cancer Center & Research Institute
+Halifax Health Medical Center
+Halifax Health Medical Center of Port Orange
+Health Central
+Healthmark Regional Medical Center
+HealthPark Medical Center
+HealthSouth Emerald Coast Rehabilitation Hospital
+HealthSouth Rehabilitation Hospital of Largo
+HealthSouth Rehabilitation Hospital of Miami
+HealthSouth Rehabilitation Hospital of Sarasota
+HealthSouth Rehabilitation Hospital of Spring Hill
+HealthSouth Rehabilitation Hospital of Tallahassee
+HealthSouth RidgeLake Hospital
+HealthSouth Sea Pines Rehabilitation Hospital
+HealthSouth Sunrise Rehabilitation Hospital
+HealthSouth Treasure Coast Rehabilitation Hospital
+Heart Institute at Regional Medical Center Bayonet Point
+Heart of Florida Regional Medical Center
+Heart of Tampa
+Hendry Regional Medical Center
+Heritage Hospital
+Hialeah Hospital
+Highlands Regional Medical Center (Sebring)
+Hollywood Medical Center
+Holmes Regional Medical Center
+Holy Cross Hospital
+Homestead Hospital
+Broward Health Imperial Point
+Cleveland Clinic Indian River Hospital
+Jackson Hospital
+Jackson Memorial Hospital
+Jackson South Community Hospital
+JFK Medical Center
+Joe DiMaggio Children's Hospital
+Johnston's Hospital (closed)
+Johns Hopkins All Children's Hospital
+Jupiter Medical Center
+Kendall Regional Medical Center
+Kindred Hospital Bay Area-St. Petersburg
+Kindred Hospital North Florida
+Lake City Medical Center
+Lake City Veterans Administration Medical Center
+Lake Wales Medical Center
+Lakeland Regional Medical Center
+Largo Medical Center
+Large Medical Center-Indian Rocks (Formerly Sun Coast Hospital)
+Larkin Community Hospital
+Lawnwood Regional Medical Center
+Lee Memorial Hospital
+Leesburg Regional Medical Center
+Lower Keys Medical Center
+M. D. Anderson Cancer Center Orlando
+Manatee Memorial Hospital
+Martin Memorial Health Systems
+Mayo Clinic Florida
+Mease Countryside Hospital
+Mease Dunedin Hospital
+Medical Center Clinic
+Medical Center of Trinity
+Memorial Hospital Flagler
+Memorial Hospital Jacksonville
+Memorial Hospital Miramar
+Memorial Hospital of Tampa
+Memorial Hospital Pembroke
+Memorial Hospital West
+Memorial Regional Hospital
+Mercy Hospital (Miami)
+Miami Children's Hospital
+Morton Plant Hospital
+Morton Plant North Bay Hospital
+Mount Sinai Medical Center & Miami Heart Institute
+Munroe Regional Medical Center
+Naval Hospital Jacksonville
+Naval Hospital Pensacola
+NCH Healthcare System - Downtown Naples
+NCH Healthcare System - North Naples
+Nemours Children's Clinic Hospital
+Nemours Children's Clinic Hospital
+Nemours Children's Hospital
+Nicklaus Children's Hospital at St. Mary's Medical Center
+Broward Health North
+North Florida Regional Medical Center
+North Okaloosa Medical Center
+North Ridge Medical Center
+North Shore Medical Center
+Northeast Florida State Hospital
+Northside Hospital
+Northwest Florida Community Hospital
+Northwest Medical Center
+Oak Hill Hospital
+Ocala Regional Medical Center
+Orange Park Medical Center
+Orlando Regional Medical Center
+Osceola Regional Medical Center
+Palm Bay Community Hospital
+Palm Beach Gardens Medical Center
+Palm Springs General Hospital, Inc
+Palmetto General Hospital
+Palms of Pasadena Hospital
+Palms West Hospital
+Pan American Hospital
+Parkway Regional Medical Center
+Parrish Medical Center
+Pasco Regional Medical Center
+Physicians Regional Medical Center - Collier Boulevard
+Physicians Regional Medical Center - Pine Ridge
+Pinecrest Rehabilitation Hospital
+Plantation General Hospital
+Poinciana Medical Center
+Putnam Community Medical Center
+Raulerson Hospital
+Regional Medical Center Bayonet Point
+Rehabilitation Hospital
+River Point Behavioral Health (formerly Ten Broeck Hospital)
+Sacred Heart Hospital
+Santa Rosa Medical Center
+Sarasota Memorial Hospital
+Sebastian River Medical Center
+Seven Rivers Rivers Regional Medical Center
+Shands Lake Shore
+Shands Live Oak
+Shands Starke
+South Bay Hospital
+South Florida Baptist Hospital
+South Lake Hospital
+South Miami Hospital
+South Seminole Hospital
+Speciality Hospital
+Spring Hill Regional Hospital
+St. Anthony's Hospital
+St. Cloud Hospital
+St. Joseph's Children's Hospital
+St. Joseph's Hospital
+St. Joseph's Women's Hospital
+St. Lucie Medical Center
+St. Mary's Medical Center
+St. Petersburg General Hospital
+St. Vincent's Medical Center Clay County
+St. Vincent's Medical Center Riverside
+St. Vincent's Medical Center Southside
+Tallahassee Memorial HealthCare
+Tampa General Hospital
+Tampa Shriners Hospital
+Tampa Community Hospital
+Tri-County Hospital - Williston
+Trinity Community Hospital
+Twin Cities Hospital
+UF Health Jacksonville
+UF Health North
+UF Health Shands Children's Hospital
+UF Health Shands Hospital
+UF Health Shands Psychiatric Hospital
+UF Health Shands Rehab Hospital
+University Hospital and Medical Center
+University of Miami Hospital
+VA Medical Center
+Venice Regional Bayfront Health
+Venice Memorial Hospital 
+Venice Hospital 
+Bon Secours Venice Hospital
+Viera Hospital
+Villages Regional Hospital
+Wellington Regional Medical Center
+Westchester General Hospital
+West Boca Medical Center
+West Florida Hospital
+West Side Regional Medical Center
+Windmoor Healthcare of Clearwater
+Winnie Palmer Hospital for Women & Babies
+Winter Haven Hospital
+Winter Park Memorial Hospital
+Wolfson Children's Hospital
+Wuesthoff Health System
+Wuesthoff Medical Center 
+Wuesthoff Medical Center 
+Athens Regional Medical Center
+Atlanta Medical Center
+Barrow Regional Medical Center
+Berrien County Hospital
+Bleckley Memorial Hospital
+Brooks County Hospital
+Cancer Treatment Centers of America, Atlanta
+Candler County Hospital
+Candler Hospital (Savannah)
+Cartersville Medical Center
+Chatuge Regional Hospital
+Chestatee Regional Hospital
+Children's Healthcare of Atlanta at Egleston
+Children's Healthcare of Atlanta at Hughes Spalding
+Children's Healthcare of Atlanta at Scottish Rite
+Children's Hospital of Georgia
+Clearview Regional Medical Center
+Clinch Memorial Hospital
+Cobb Memorial Hospital
+Coffee Regional Medical Center
+Coliseum Medical Centers
+Coliseum Northside Hospital
+Colquitt Regional Medical Center
+Cook Medical Center
+Crisp Regional Hospital
+Doctors Hospital of Augusta
+Doctors Hospital of Columbus
+Doctors Hospital of Tattnall
+Dodge County Hospital
+Donalsonville Hospital
+Phoebe Dorminy Medical Center
+East Georgia Regional Medical Center
+Eastside Medical Center
+Effingham Hospital
+Elbert Memorial Hospital
+Emanuel Medical Center
+Emory Decatur Hospital
+Emory Hillandale Hospital
+Emory Johns Creek Hospital
+Emory University Hospital
+Emory University Hospital Midtown
+Emory University Orthopaedics and Spine Hospital
+Cornerstone Medical Center
+Evans Memorial Hospital
+Fairview Park Hospital
+Fannin Regional Hospital
+Flint River Hospital
+Floyd Medical Center
+Augusta University Medical Center
+Gordon Hospital
+Grady General Hospital
+Grady Memorial Hospital
+Gwinnett Medical Center-Duluth
+Gwinnett Medical Center-Lawrenceville
+Habersham Medical Center
+Hamilton Medical Center
+Higgins General Hospital
+Houston Medical Center
+Jack Hughston Memorial Hospital
+Irwin County Hospital
+Jasper Memorial Hospital
+Jeff Davis Hospital
+Jefferson Hospital
+John D. Archbold Memorial Hospital
+Liberty Regional Medical Center
+Louis Smith Memorial Hospital
+Mayo Clinic Health System in Waycross
+McDuffie Regional Medical Center
+Meadows Regional Medical Center
+Medical Center of Central Georgia
+Medical Center of Peach County
+Memorial Health University Medical Center
+Memorial Hospital and Manor
+Midtown Medical Center
+Miller County Hospital
+Mitchell County Hospital
+Monroe County Hospital
+Morgan Memorial Hospital
+Mountain Lakes Medical Center
+Murray Medical Center
+Newton Medical Center
+North Fulton Regional Hospital
+Northeast Georgia Medical Center
+Northeast Georgia Medical Center
+Northridge Medical Center
+Northside Hospital - Cherokee
+Northside Hospital
+Northside Hospital Forsyth
+Navicent Health Baldwin
+Optim Medical Center - Jenkins
+Optim Medical Center - Screven
+Perry Hospital
+Phoebe North Medical Center
+Phoebe Putney Memorial Hospital
+Phoebe Sumter Medical Center
+Phoebe Worth Medical Center
+Piedmont Fayette Hospital
+Piedmont Henry Hospital
+Piedmont Hospital
+Piedmont Mountainside Hospital
+Piedmont Newnan Hospital
+Pioneer Community Hospital of Early
+Polk Medical Center
+Putnam General Hospital
+Redmond Regional Medical Center
+River Place Braselton
+Rockdale Medical Center
+Saint Joseph's Hospital of Atlanta
+Smith Northview Hospital
+South Fulton Medical Center
+South Georgia Medical Center
+Southeast Georgia Health System Brunswick Campus
+Southeast Georgia Health System Camden Campus
+Southern Regional Medical Center
+Southwest Georgia Regional Medical Center / Patterson Hospital
+Spalding Regional Medical Center
+St. Francis Hospital
+St. Joseph's Hospital Savannah
+St. Mary's Hospital
+St. Mary's Good Samaritan Hospital
+St. Mary's Sacred Heart Hospital
+Stephens County Hospital
+Sylvan Grove Hospital
+Tanner Medical Center Carrollton
+Tanner Medical Center Villa Rica
+Taylor Regional Hospital
+Tift Regional Medical Center
+Turning Point Hospital
+Union General Hospital
+University Hospital
+Upson Regional Medical Center
+Warm Springs Medical Center
+Washington County Regional Medical Center
+Wayne Memorial Hospital
+WellStar Cobb Hospital
+WellStar Douglas Hospital
+WellStar Kennestone Regional Medical Center
+WellStar Paulding Hospital
+Wesley Woods Geriatric Hospital of Emory University
+West Georgia Medical Center
+Wildwood Hospital
+Wills Memorial Hospital
+Central Georgia Rehabilitation Hospital
+Columbus Specialty Hospital
+DeKalb Medical Long Term Acute Care
+Kindred Hospital Atlanta
+Landmark Hospital of Athens
+Regency Hospital of Central Georgia
+Regency Hospital of South Atlanta
+Roosevelt Warm Springs Institute for Rehabilitation
+Select Specialty Hospital Atlanta
+Select Specialty Hospital Augusta
+Select Specialty Hospital Savannah
+Shepherd Center
+Southern Crescent Hospital for Specialty Care
+Triumph the Specialty Hospital Rome
+Walton Rehabilitation Hospital
+WellStar Windy Hill Hospital
+Wesley Woods Geriatric Hospital
+Anchor Hospital
+Coastal Behavioral Health
+Coastal Harbor Treatment Center
+Coliseum Center for Behavioral Health
+Crescent Pines Hospital
+Hillside Hospital
+Laurel Heights Hospital
+Lighthouse Care Center of Augusta
+Macon Behavioral Health System
+Peachford Hospital
+Ridgeview Institute
+RiverWoods Behavioral Health System
+Saint Simons By-The-Sea
+SummitRidge Hospital
+Talbott Recovery Atlanta
+Talbott Recovery Columbus
+Talbott Recovery Dunwoody
+Willingway Hospital
+Willowbrooke at Tanner
+Youth Villages Inner Harbour Campus
+Bear Lake Memorial Hospital
+Benewah Community Hospital
+Bingham Memorial Hospital
+Birkeland Maternity Center
+Boise Veterans Affairs Medical Center
+Bonner General Hospital
+Boundary Community Hospital
+Caribou Memorial Hospital
+Cascade Medical Center
+Cassia Regional Medical Center
+Challis Area Health Center
+Clearwater Valley Hospital
+Cottonwood Creek Behavioral Hospital
+Eastern Idaho Regional Medical Center
+Franklin County Medical Center
+Gritman Medical Center
+Intermountain Hospital
+Kootenai Medical Center
+Lost Rivers Medical Center
+Madison Memorial Hospital
+Minidoka Memorial Hospital
+Mountain View Hospital
+Nell J. Redfield Memorial Hospital
+North Canyon Medical Center
+Northern Idaho Advanced Care Hospital
+Northwest Specialty Hospital
+Portneuf Medical Center
+Power County Hospital
+Rehabilitation Hospital of the Northwest
+Safe Haven Hospital of Treasure Valley
+Saint Alphonsus Caldwell Cancer Center
+Saint Alphonsus Eagle
+Saint Alphonsus Nampa
+Saint Alphonsus Regional Medical Center
+St. Joseph Regional Medical Center
+St. Luke's Rehabilitation Hospital
+St. Luke's Jerome
+St. Luke's Boise Medical Center
+St. Luke's Elmore
+St. Luke's Fruitland
+St. Luke's Magic Valley Medical Center
+St. Luke's Meridian Medical Center
+St. Luke's McCall
+St. Luke's Nampa Medical Center
+St. Luke's Wood River Medical Center
+St. Mary's Hospital
+Salmon River Clinic
+Shoshone Medical Center
+State Hospital South
+Steele Memorial Medical Center
+Syringa General Hospital
+Teton Valley Hospital
+Valor Health
+Vibra Hospital of Boise
+Weiser Memorial Hospital
+West Valley Medical Center
+Albert B. Chandler Hospital
+Teaching
+Baptist Health Corbin
+Baptist Health La Grange
+Baptist Health Lexington
+Baptist Health Louisville
+Baptist Health Madisonville
+Baptist Health Paducah
+Baptist Health Richmond
+Blanchfield Army Community Hospital
+Bluegrass Community Hospital
+Bourbon Community Hospital
+Breckinridge Memorial Hospital
+Bullitt County Medical Center
+Caldwell Medical Center
+Cardinal Hill Rehabilitation Center
+Carroll County Memorial Hospital
+Casey County Hospital
+Caverna Memorial Hospital
+Central State Hospital
+Clark Regional Medical Center
+Clinton County Hospital
+Commonwealth Regional Specialty Hospital
+Crittenden County Hospital
+Cumberland County Hospital
+Cumberland Hall Hospital
+Eastern State Hospital
+Ephraim McDowell Fort Logan Hospital
+Ephraim McDowell Regional Medical Center
+Flaget Memorial Hospital
+Fleming County Hospital
+Frankfort Regional Medical Center
+Frazier Rehabilitation Institute
+Gateway Rehabilitation Hospital
+Georgetown Community Hospital
+Good Samaritan Hospital
+Hardin Memorial Hospital
+Harlan ARH Hospital
+Harrison Memorial Hospital
+Hazard ARH Regional Medical Center
+Psychiatric
+HealthSouth Lakeview Rehabilitation Hospital
+HealthSouth Northern Kentucky Rehabilitation Hospital
+Highlands Regional Medical Center
+Ireland Army Community Hospital
+Jackson Purchase Medical Center
+Jane Todd Crawford Memorial Hospital
+James B. Haggin Memorial Hospital
+Jennie Stuart Medical Center
+Jewish Hospital
+Jewish Hospital Shelbyville
+Kentucky River Medical Center
+Kindred Hospital Louisville
+King's Daughters Medical Center
+Knox County Hospital
+Kosair Children's Hospital
+Lake Cumberland Regional Hospital
+Lexington Shriners Hospital
+Lexington VA Medical Center
+Livingston Hospital and Health Services
+Logan Memorial Hospital
+Louisville Medical Center
+Lourdes Hospital
+Manchester Memorial Hospital
+Marcum and Wallace Memorial Hospital
+Marshall County Hospital
+Mary Breckinridge Hospital
+McDowell ARH Hospital
+Meadowview Regional Medical Center
+The Medical Center
+The Medical Center
+The Medical Center
+Methodist Hospital
+Methodist Hospital Union County
+Middlesboro ARH Hospital
+Monroe County Medical Center
+Morgan County ARH Hospital
+Muhlenberg Community Hospital
+Murray-Calloway County Hospital
+New Horizons Medical Center
+Nicholas County Hospital
+Norton Audubon Hospital
+Norton Brownsboro Hospital
+Norton Hospital
+Norton Suburban Hospital
+Ohio County Hospital
+Our Lady of Bellefonte Hospital
+Our Lady of Peace Hospital
+Owensboro Health Regional Hospital
+Parkway Regional Hospital
+Paul B. Hall Regional Medical Center
+Pikeville Medical Center
+Pineville Community Hospital
+River Valley Behavioral Health Hospital
+Roberts Chapel
+Robley Rex VA Medical Center
+Rockcastle Regional Hospital
+Russell County Hospital
+Saint Claire Medical Center
+Saint Elizabeth Covington
+Saint Elizabeth Florence
+Saint Elizabeth Fort Thomas
+Saint Elizabeth Hebron
+Saint Joseph Berea
+Saint Joseph Hospital
+Saint Joseph London
+Saint Joseph Martin
+Saint Joseph Mount Sterling
+Select Specialty Hospital
+Southern Kentucky Rehabilitation Hospital
+Spring View Hospital
+Taylor Regional Hospital
+Ten Broeck Hospital
+Three Rivers Medical Center
+T.J. Samson Community Hospital
+Trigg County Hospital
+TriStar Greenview Regional Hospital
+Twin Lakes Regional Medical Center
+University of Kentucky Children's Hospital
+University of Louisville Hospital
+Wayne County Hospital
+Western State Hospital
+Westlake Regional Hospital
+Whitesburg ARH Hospital
+Williamson ARH Hospital
+Bixby Community Hospital
+Allegan General Hospital
+MidMichigan Medical Center-Gratiot
+Alpena Regional Medical Center
+St. Joseph Mercy Ann Arbor
+University of Michigan Hospital
+Veterans Affairs Ann Arbor Healthcare System
+Havenwyck Hospital
+Huron Medical Center
+Bronson Battle Creek
+Southwest Regional Rehabilitation Center
+VA Medical Center
+McLaren Bay Regional
+McLaren Bay Special Care Hospital
+Spectrum Health- Mecosta County Medical Center
+Brighton Hospital
+Munson Healthcare Cadillac Hospital
+Caro Center
+Caro Community Hospital
+Carson City Hospital
+Hills and Dales General Hospital
+Munson Healthcare Charlevoix Hospital
+Hayes Green Beach Memorial Hospital
+Cheboygan Memorial Hospital
+MidMichigan Medical Center-Clare
+Henry Ford Macomb Hospital
+Community Health Center of Branch County
+Huron Valley-Sinai Hospital
+Pine Rest Christian Mental Health Services
+Beaumont Hospital, Dearborn
+Formerly Oakwood Hospital - Dearborn
+Deckerville Community Hospital
+Children's Hospital of Michigan
+Detroit Receiving Hospital
+Harper University Hospital
+Hutzel Women's Hospital
+Karmanos Cancer Center
+Kresge Eye Institute
+Rehabilitation Institute of Michigan
+Sinai-Grace Hospital
+John D. Dingell Veterans Affairs Medical Center
+Henry Ford Hospital
+Select Specialty Hospital-Northwest Detroit
+Located within Sinai-Grace Hospital
+Ascension St. John Hospital
+Borgess-Lee Memorial Hospital
+St. John River District Hospital
+Eaton Rapids Medical Center
+OSF St. Francis Hospital
+Beaumont Hospital, Farmington Hills
+Formerly Botsford General Hospital
+Henry Ford Kingswood Hospital
+Hurley Medical Center
+McLaren Flint
+Select Specialty Hospital-Flint
+Located within McLaren Regional Medical Center
+Munson Healthcare Paul Oliver Memorial Hospital
+Gerber Memorial Health Services
+Garden City Hospital
+Otsego Memorial Hospital
+MidMichigan Medical Center-Gladwin
+Ascension Genesys Hospital
+North Ottawa Community Hospital
+Helen DeVos Children's Hospital
+Forest View Hospital
+Mary Free Bed Rehabilitation Hospital
+Metro Health Hospital
+Pine Rest Christian Mental Health Services
+Mercy Health Saint Mary's
+Spectrum Health - Butterworth Hospital
+Spectrum Health - Blodgett Hospital
+Spectrum Health-Kent Community Campus
+Munson Healthcare Grayling Hospital
+Spectrum Health-United Memorial
+Beaumont Hospital, Grosse Pointe
+Henry Ford Cottage Hospital
+Select Specialty Hospital-Grosse Pointe
+Located within Henry Ford Cottage Hospital
+UP Health System - Portage
+Harbor Beach Community Hospital
+St. John North Shores Hospital
+Pennock Hospital
+Hillsdale Community Health Center
+Holland Hospital
+Sparrow Ionia Hospital
+Dickinson County Healthcare System
+Veterans Affairs Medical Center
+Aspirus Iron River Hospital
+Aspirus Ironwood Hospital
+Bell Hospital
+CareLink of Jackson
+Duane L. Waters Hospital
+Henry Ford Allegiance Health
+Ascension Borgess Hospital
+Bronson Methodist Hospital
+Kalamazoo Psychiatric Hospital
+Select Specialty Hospital-Kalamazoo
+Located within Bronson Methodist Hospital
+Kalkaska Memorial Health Center
+Baraga County Memorial Hospital
+McLarenGreater Lansing Hospital
+Formerly Ingham Regional Medical Center
+McLarenOrthopedic Hospital
+Formerly Ingham Regional Orthopedic Hospital
+Sparrow Hospital
+Sparrow Specialty Hospital
+Formerly St. Lawrence Hospital
+McLaren Lapeer Regional
+Aspirus Keweenaw Hospital (formerly Keweenaw Memorial Hospital)
+Vibra Hospital of Southeastern Michigan (formerly Kindred Hospital-Detroit)
+Spectrum Health Ludington Hospital
+St. John Macomb-Oakland Hospital
+Munson Healthcare Manistee Hospital
+Schoolcraft Memorial Hospital
+Marlette Community Hospital
+UP Health System - Marquette
+Oaklawn Hospital
+MidMichigan Medical Center-Midland
+ProMedica Monroe Regional Hospital
+McLaren Macomb
+Select Specialty Hospital-Macomb County
+McLaren Central Michigan
+Munising Memorial Hospital
+LifeCare Hospitals of Western Michigan
+Mercy Health Hackley Campus
+Mercy Health Partners, Mercy Campus
+Mercy Health Partners, Muskegon General Campus
+Harbor Oaks Hospital
+Helen Newberry Joy Hospital
+Hawthorn Center
+Ascension Providence Hospital, Novi Campus
+Aspirus Ontonagon Hospital
+Memorial Healthcare
+Bronson LakeView Hospital
+Northern Michigan Regional Hospital
+Scheurer Hospital
+Pipp Borgess Hospital
+North Oakland Medical Centers
+McLaren Oakland
+Select Specialty Hospital-Pontiac
+Located within Saint Joseph Mercy Oakland Hospital
+St. Joseph Mercy Oakland
+St. Mary Mercy Livonia
+St. Joseph Mercy Livingston Hospital
+St. Joseph Mercy Chelsea Hospital
+McLaren Port Huron
+Spectrum Health-Reed City Campus
+Ascension Providence Rochester Hospital
+Rogers City Rehabilitation Hospital
+Beaumont Hospital, Royal Oak
+Formerly William Beaumont Health
+Aleda E. Lutz Veterans Affairs Medical Center
+Covenant Medical Center
+HealthSource Saginaw
+Select Specialty Hospital-Saginaw
+Located within Covenant Medical Center
+Ascension St. Mary's Hospital
+Mackinac Straits Hospital and Health Center
+Sparrow Clinton Hospital
+Lakeland Medical Center
+McKenzie Memorial Hospital
+War Memorial Hospital
+Mercy Health Partners, Lakeshore Campus
+Sheridan Community Hospital
+South Haven Community Hospital
+Oakland Regional Hospital
+Ascension Providence Hospital, Southfield Campus
+Straith Hospital for Special Surgery
+St. Mary's of Michigan Standish Hospital
+Sturgis Hospital
+St. Joseph Health System
+Beaumont Hospital, Taylor
+Formerly Oakwood Heritage Hospital
+Select Specialty Hospital-Downriver
+Located within Beaumont Hospital - Taylor
+Herrick Memorial Medical Center
+Three Rivers Health
+Munson Medical Center
+Beaumont Hospital, Trenton
+Formerly Oakwood Southshore Hospital
+Beaumont Hospital, Troy
+Bronson Vicksburg Hospital
+Southeast Michigan Surgical Hospital
+Ascension Macomb-Oakland Hospital, Warren Campus
+Beaumont Hospital, Wayne
+Formerly Oakwood Annapolis Hospital
+Henry Ford West Bloomfield Hospital
+West Branch Regional Medical Center
+Apex Medical Center
+Walter P. Reuther Psychiatric Hospital
+Henry Ford Wyandotte Hospital
+Metro Health Hospital
+Forest Health Medical Center
+Select Specialty Hospital-Ann Arbor
+Located within St. Joseph Mercy Ann Arbor Hospital
+Zeeland Community Hospital
+AdventHealth Hendersonville
+Alamance Regional Medical Center
+Alleghany Memorial Hospital
+Angel Medical Center
+Annie Penn Hospital
+Ashe Memorial Hospital
+Atrium Health Anson
+Atrium Health Cabarrus
+Atrium Health Carolinas Medical Center
+Atrium Health Cleveland
+Atrium Health Harrisburg
+Atrium Health Huntersville
+Atrium Health Kannapolis
+Atrium Health Kings Mountain
+Atrium Health Lincoln
+Atrium Health Mercy
+Atrium Health Pineville
+Atrium Health SouthPark
+Atrium Health Stanly
+Atrium Health Steele Creek
+Atrium Health Union
+Atrium Health University City
+Atrium Health Waxhaw
+Betsy Johnson Regional Hospital
+Blue Ridge Regional Hospital
+Caldwell UNC Health Care
+Cannon Memorial Hospital
+Cape Fear Valley Bladen County Hospital
+Cape Fear Valley Hoke Hospital
+Cape Fear Valley Medical Center
+CarolinaEast Medical Center
+Carolinas HealthCare System Blue Ridge Morganton
+Carolinas HealthCare System Blue Ridge Valdese
+CaroMont Regional Medical Center
+CaroMont Regional Medical Center - Mount Holly
+Carteret Health Care
+Catawba Valley Medical Center
+Central Carolina Hospital
+Central Harnett Hospital
+Chatham UNC Health Care
+Columbus Regional Healthcare System
+Davis Regional Medical Center
+Dosher Memorial Hospital
+Duke Raleigh Hospital
+Duke Regional Hospital
+Duke University Hospital
+Erlanger Western Carolina Hospital
+FirstHealth Montgomery Memorial Hospital
+FirstHealth Moore Regional Hospital
+FirstHealth Moore Regional Hospital - Hoke
+FirstHealth Moore Regional Hospital - Richmond
+Frye Regional Medical Center
+Granville Medical Center
+Halifax Regional Medical Center
+Harris Regional Hospital
+Haywood Regional Medical Center
+Highlands-Cashiers Hospital
+Highsmith-Rainey Specialty Hospital
+Hugh Chatham Memorial Hospital
+Iredell Memorial Hospital
+Johnston UNC Health Care
+Lake Norman Regional Medical Center
+LifeBrite Community Hospital of Stokes
+Maria Parham Health
+Martin General Hospital
+McDowell Hospital
+Mission Hospital
+Moses H. Cone Memorial Hospital
+Nash UNC Health Care
+New Hanover Regional Medical Center
+North Carolina Specialty Hospital
+Northern Hospital of Surry County
+Novant Health Brunswick Medical Center
+Novant Health Charlotte Orthopaedic Hospital
+Novant Health Clemmons Medical Center
+Novant Health Forsyth Medical Center
+Novant Health Huntersville Medical Center
+Novant Health Kernersville Medical Center
+Novant Health Matthews Medical Center
+Novant Health Medical Park Hospital
+Novant Health Mint Hill Medical Center
+Novant Health Presbyterian Medical Center
+Novant Health Rowan Medical Center
+Novant Health Thomasville Medical Center
+Onslow Memorial Hospital
+The Outer Banks Hospital
+Pardee UNC Health Care
+Pender Memorial Hospital
+Person Memorial Hospital
+Randolph Health
+Rutherford Regional Health System
+Sampson Regional Medical Center
+Scotland Memorial Hospital
+Sentara Albemarle Medical Center
+Southeastern Regional Medical Center
+St. Luke's Hospital
+Swain Community Hospital
+Transylvania Regional Hospital
+UNC Lenoir Health Care
+UNC Medical Center
+UNC REX Healthcare
+UNC Rockingham Health Care
+Vidant Beaufort Hospital
+Vidant Bertie Hospital
+Vidant Chowan Hospital
+Vidant Duplin Hospital
+Vidant Edgecombe Hospital
+Vidant Medical Center
+Vidant Roanoke-Chowan Hospital
+Wake Forest Baptist Health Davie Medical Center
+Wake Forest Baptist Health High Point Medical Center
+Wake Forest Baptist Health Lexington Medical Center
+Wake Forest Baptist Health Wilkes Medical Center
+Wake Forest Baptist Medical Center
+WakeMed
+WakeMed Cary Hospital
+WakeMed North Hospital
+Washington County Hospital
+Watauga Medical Center
+Wayne UNC Health Care
+Wesley Long Hospital
+Wilson Medical Center
+Abington Hospital - Jefferson Health
+Abington-Lansdale Hospital - Jefferson Health
+ACMH Hospital
+Advanced Surgical Hospital
+Allegheny General Hospital
+Allegheny Valley Hospital
+Allied Services Institute of Rehab Medicine
+Barix Clinics of Pennsylvania
+Barnes-Kasson County Hospital
+Belmont Behavioral Hospital
+Berwick Hospital Center
+Bradford Regional Medical Center
+Brandywine Hospital
+Brooke Glen Behavioral Hospital
+Bryn Mawr Hospital
+Bryn Mawr Rehabilitation Hospital
+Bucktail Medical Center, The
+Butler Memorial Hospital
+Cancer Treatment Centers of America
+Canonsburg Hospital
+Chambersburg Hospital, The
+Chan Soon-Shiong Medical Center at Windber
+Chestnut Hill Hospital
+Children's Home of Pittsburgh, The
+Children's Hospital of Philadelphia
+Children's Institute of Pittsburgh, The
+Clarion Hospital
+Clarion Psychiatric Center
+Clarks Summit State Hospital
+Coatesville Veterans Affairs Medical Center
+Conemaugh Memorial Medical Center
+Conemaugh Meyersdale Medical Center
+Conemaugh Miners Medical Center
+Conemaugh Nason Medical Center
+Crichton Rehabilitation Center
+Crozer-Chester Medical Center
+Curahealth Heritage Valley
+Danville State Hospital
+Delaware County Memorial Hospital
+Department of Veterans Affairs Medical Center-Erie
+Department of Veterans Affairs Medical Center-Lebanon
+Department of Veterans Affairs Medical Center-Philadelphia
+Department of Veterans Affairs Medical Center-Wilkes Barre
+Devereux Foundation
+Doylestown Health
+Eagleville Hospital
+Easton Hospital
+Edgewood Surgical Hospital
+Einstein Medical Center Montgomery
+Einstein Medical Center-Philadelphia
+Ellwood Medical Center
+Endless Mountains Health Systems
+Evangelical Community Hospital
+Excela Frick Hospital
+Excela Latrobe Area Hospital
+Excela Westmoreland Hospital
+Fairmount Behavioral Health System
+First Hospital Wyoming Valley
+Forbes Hospital
+Foundations Behavioral Health
+Fox Chase Cancer Center
+Friends Hospital
+Fulton County Medical Center, The
+Geisinger Community Medical Center
+Geisinger HealthSouth Rehabilitation Hospital
+Geisinger Holy Spirit
+Geisinger Jersey Shore Hospital
+Geisinger Medical Center
+Geisinger Wyoming Valley Medical Center
+Geisinger-Bloomsburg Hospital
+Geisinger-Lewistown Hospital
+Good Shepherd Penn Partners
+Good Shepherd Rehabilitation Network
+Good Shepherd Specialty Hospital
+Grand View Health
+Grove City Medical Center
+Guthrie Robert Packer Hospital
+Guthrie Towanda Memorial Hospital
+Guthrie Troy Community Hospital
+Hahnemann University Hospital
+Haven Behavioral Hospital of Eastern Pennsylvania
+Haven Behavioral Hospital of Philadelphia
+HealthSouth Harmarville Rehabilitation Hospital
+HealthSouth Nittany Valley Rehabilitation Hospital
+HealthSouth Rehabilitation Hospital of Altoona
+HealthSouth Rehabilitation Hospital of Erie
+HealthSouth Rehabilitation Hospital of Mechanicsburg
+HealthSouth Rehabilitation Hospital of Reading
+HealthSouth Rehabilitation Hospital of Sewickley
+HealthSouth Rehabilitation Hospital of York
+Helen M. Simpson Rehabilitation Hospital
+Heritage Valley Beaver
+Heritage Valley Sewickley
+Highlands Hospital
+Holy Redeemer Hospital
+Horsham Clinic, The
+Hospital of the University of Pennsylvania
+Indiana Regional Medical Center
+James E. Van Zandt Veterans Affairs Medical Center
+JC Blair Memorial Hospital
+Jeanes Hospital
+Jefferson Health Northeast
+Jefferson Hospital
+Jennersville Hospital
+John Heinz Institute of Rehab Medicine
+Kensington Hospital
+KidsPeace
+Kindred Hospital Philadelphia
+Kindred Hospital Philadelphia - Havertown
+Kindred Hospital Pittsburgh
+Kindred Hospital South Philadelphia
+Kirkbride Center
+Lancaster General Hospital
+Lancaster Rehabilitation Hospital
+Lankenau Medical Center
+LECOM Health - Corry Memorial Hospital
+LECOM Health - Millcreek Community Hospital
+Lehigh Valley Hospital
+Lehigh Valley Hospital - Hazelton
+Lehigh Valley Hospital - Muhlenberg
+Lehigh Valley Hospital - Pocono
+Lehigh Valley Hospital - Schuylkill East Norwegian Street
+Lehigh Valley Hospital - Schuylkill South Jackson Street
+Lifecare Behavioral Health Hospital
+Lifecare Hospital of Pittsburgh
+Lifecare Hospital of Chester County
+Lifecare Hospital of Mechanicsburg
+Lower Bucks Hospital, The
+Magee Rehabilitation Hospital
+Meadows Psychiatric Center, The
+Meadville Medical Center
+Mercy Fitzgerald Hospital
+Mercy Philadelphia Hospital
+Monongahela Valley Hospital
+Montgomery County Emergency Service
+Moses Taylor Hospital
+Mount Nittany Medical Center
+Nazareth Hospital
+New Lifecare Hospitals of PGH - Alle-Kiski
+New Lifecare Hospitals of PGH - Suburban
+Norristown State Hospital
+Ohio Valley Hospital
+OSS Health
+Paoli Hospital
+Penn Highlands Brookville
+Penn Highlands Clearfield
+Penn Highlands DuBois
+Penn Highlands Elk
+Penn Medicine Chester County Hospital
+Penn Presbyterian Medical Center
+Penn State Health St. Joseph
+Penn State Hershey Rehabilitation Hospital
+Penn State Milton S. Hershey Medical Center
+Pennsylvania Hospital
+Pennsylvania Psychiatric Institute
+Philhaven
+Phoenixville Health
+Physicians Care Surgical Hospital
+Pottstown Hospital
+Punxsutawney Area Hospital
+Reading Hospital
+Regional Hospital of Scranton
+Riddle Hospital
+Rothman Orthopaedic Specialty Hospital
+Roxborough Memorial Hospital
+Roxbury Treatment Center
+Saint John Vianney Hospital
+Saint Vincent Hospital
+SCI-Waymart Forensic Treatment Center
+Select Specialty Hospital - Camp Hill
+Select Specialty Hospital - Danville
+Select Specialty Hospital - Erie
+Select Specialty Hospital - Harrisburg
+Select Specialty Hospital - Johnstown
+Select Specialty Hospital - Laurel Highlands
+Select Specialty Hospital - McKeesport
+Select Specialty Hospital - Pittsburgh UPMC
+Select Specialty Hospital - York
+Sharon Regional Medical Center
+Shriners Hospitals for Children - Philadelphia
+Somerset Hospital
+Southwood Psychiatric Hospital
+Special Care Hospital
+St. Christopher's Hospital for Children
+St. Clair Hospital
+St. Luke's Anderson Campus
+St. Luke's Bethlehem Campus
+St. Luke's Gnaden Huetten Campus
+St. Luke's Miners Campus
+St. Luke's Quakertown Campus
+St. Luke's Sacred Heart Campus
+St. Mary Medical Center
+St. Mary Rehabilitation Hospital
+Suburban Community Hospital
+Surgical Institute of Reading
+Surgical Specialty Center at Coordinated Health
+Surgical Specialty Hospital-Coordinated Hlth
+Temple University Hospital
+Thomas Jefferson University Hospital
+Titusville Area Hospital
+Torrance State Hospital
+Tyler Memorial Hospital
+Tyrone Regional Health Network
+Uniontown Hospital
+UPMC Altoona
+UPMC Bedford Memorial
+UPMC Carlisle
+UPMC Children's Hospital of Pittsburgh
+UPMC Cole
+UPMC East
+UPMC Hamot
+UPMC Hanover
+UPMC Horizon
+UPMC Jameson
+UPMC Kane
+UPMC Lititz
+UPMC Magee-Womens Hospital
+UPMC McKeesport
+UPMC Memorial
+UPMC Mercy
+UPMC Muncy Valley Hospital
+UPMC Northwest
+UPMC Passavant
+UPMC Pinnacle
+UPMC Pinnacle Lancaster
+UPMC Presbyterian
+UPMC St. Margaret
+UPMC Susquehanna Divine Providence Hospital
+UPMC Susquehanna Lock Haven
+UPMC Susquehanna Soldiers + Sailors Memorial Hospital
+UPMC Susquehanna Sunbury
+UPMC Susquehanna Williamsport
+Valley Forge Medical Center & Hospital
+Veterans Affairs Pittsburgh Healthcare System
+Warren General Hospital
+Warren State Hospital
+Washington Health System
+Washington Health System Greene
+Wayne Memorial Hospital
+Waynesboro Hospital
+WellSpan Ephrata Community Hospital
+WellSpan Gettysburg Hospital
+WellSpan Good Samaritan Hospital
+WellSpan Surgery & Rehabilitation Hospital
+WellSpan York Hospital
+Wernersville State Hospital
+West Penn Hospital
+Wilkes-Barre General Hospital
+Wills Eye Hospital
+Abbeville Area Medical Center
+Aiken Regional Medical Center
+Allendale County Hospital
+AnMed Health Cannon
+AnMed Health Medical Center
+AnMed Health Women & Children's Hospital
+Barnwell County Hospital
+Beaufort Memorial Hospital
+Bon Secours St. Francis Hospital
+Carolina Pines Regional Medical Center
+Cherokee Medical Center
+Clarendon Memorial Hospital
+Coastal Carolina Hospital
+Colleton Medical Center
+Conway Medical Center
+East Cooper Medical Center
+Edgefield County Hospital
+Fairfield Memorial Hospital
+Georgetown Memorial Hospital
+Grand Strand Medical Center
+Greenville Memorial Hospital
+Hampton Regional Medical Center
+Hilton Head Hospital
+KershawHealth Medical Center
+Lake City Community Hospital
+Lexington Medical Center
+McLeod Health Cheraw
+McLeod Medical Center - Darlington
+McLeod Medical Center - Dillon
+McLeod Medical Center - Loris
+McLeod Medical Center - Seacoast
+McLeod Regional Medical Center
+MUSC Health - Chester Medical Center
+MUSC Health - Florence Medical Center
+MUSC Health - Lancaster Medical Center
+MUSC Health - Marion Medical Center
+MUSC Health University Medical Center
+Newberry County Memorial Hospital
+Pelham Medical Center
+Piedmont Medical Center
+Prisma Health Baptist Easley Hospital
+Prisma Health Baptist Hospital
+Prisma Health Baptist Parkridge Hospital
+Prisma Health Greer Memorial Hospital
+Prisma Health Hillcrest Hospital
+Prisma Health Laurens County Hospital
+Prisma Health North Greenville Hospital
+Prisma Health Oconee Memorial Hospital
+Prisma Health Patewood Hospital
+Prisma Health Richland Hospital
+Prisma Health Tuomey Hospital
+Providence Hospital
+Providence Hospital Northeast
+Regency Hospital
+Regency Hospital of Greenville
+Roper Hospital
+Roper St. Francis Mount Pleasant Hospital
+Self Regional Healthcare
+Shriners Hospitals for Children - Greenville
+Spartanburg Hospital for Restorative Care
+Spartanburg Medical Center
+Spartanburg Medical Center - Mary Black Campus
+St. Francis Hospital - Downtown
+St. Francis Hospital - Eastside
+Summerville Medical Center
+The Regional Medical Center
+Trident Medical Center
+Union Medical Center
+Waccamaw Community Hospital
+Williamsburg Regional Hospital
+Alta View Hospital
+American Fork Hospital
+Ashley Regional Medical Center
+Bear River Valley Hospital
+Beaver Valley Hospital
+Blue Mountain Hospital
+Brigham City Community Hospital
+Cache Valley Hospital
+Castleview Hospital
+Central Valley Medical Center
+Cottonwood Hospital
+Davis Hospital and Medical Center
+Delta Community Medical Center
+Dixie Regional Medical Center
+Fillmore Community Medical Center
+Garfield Memorial Hospital
+(operated by Intermountain Healthcare)
+Gunnison Valley Hospital
+Heber Valley Medical Center
+Highland Ridge Hospital
+Huntsman Cancer Institute
+Intermountain Medical Center
+Jordan Valley Medical Center
+Jordan Valley Medical Center West Valley Campus
+Kane County Human Resource SSD(Hospital) (aka Kane County Hospital)
+Lakeview Hospital
+Layton Hospital
+LDS Hospital
+Lone Peak Hospital
+Logan Regional Hospital
+McKay-Dee Hospital Center
+Moab Regional Hospital
+Mountain Point Medical Center
+Mountain View Hospital
+Mountain West Medical Center
+Ogden Regional Medical Center
+Orem Community Hospital
+Park City Medical Center
+Primary Children's Hospital
+St. Mark's Hospital
+Salt Lake Behavioral Health Hospital
+Salt Lake Regional Medical Center
+San Juan Hospital
+Sanpete Valley Hospital
+Sevier Valley Hospital
+Shriners Hospitals for Children
+Spanish Fork Hospital
+(under construction)
+The Orthopedic Specialty Hospital (TOSH)
+Tooele Valley Hospital
+Timpanogos Regional Hospital
+Uintah Basin Medical Center
+University Neuropsychiatric Institute (UNI)
+University of Utah Hospital
+Utah State Hospital
+Utah Valley Hospital
+Valley View Medical Center
+VA Hospital
+Augusta Health
+Bath Community Hospital
+Bon Secours DePaul Medical Center
+Bon Secours Mary Immaculate Hospital
+Bon Secours Maryview Medical Center
+Bon Secours Memorial Regional Medical Center
+Bon Secours Richmond Community Hospital
+Bon Secours St. Francis Medical Center
+Bon Secours St. Mary's Hospital
+Buchanan General Hospital
+Carilion Clinic St. Albans Hospital
+Carilion Franklin Memorial Hospital
+Carilion Giles Memorial Hospital
+Carilion New River Valley Medical Center
+Carilion Roanoke Community Hospital
+Carilion Roanoke Memorial Hospital
+Carilion Stonewall Jackson Hospital
+Carilion Tazewell Community Hospital
+Centra Bedford Memorial Hospital
+Centra Lynchburg General Hospital
+Centra Southside Community Hospital
+Centra Virginia Baptist Hospital
+Chesapeake Regional Medical Center
+Children's Hospital of Richmond at VCU
+Children's Hospital of The King's Daughters
+CJW Medical Center (Chippenham & Johnston-Willis)
+Clinch Valley Medical Center
+Culpeper Regional Hospital
+Cumberland Hospital
+Danville Regional Medical Center
+Dickenson Community Hospital
+Dominion Hospital
+Fauquier Health System
+Fort Belvoir Community Hospital
+Graydon Manor
+Haymarket Medical Center
+Henrico Doctors' HospitalHenrico Campus
+Henrico Doctors' HospitalParham Campus
+Inova Alexandria Hospital
+Inova Children's Hospital
+Inova Fair Oaks Hospital
+Inova Fairfax Hospital
+Inova Loudoun Hospital
+Inova Mount Vernon Hospital
+Inova Women's Hospital
+John Randolph Medical Center
+Johnston Memorial Hospital
+Lake Taylor Transitional Care Hospital
+LewisGale Hospital Alleghany
+LewisGale Hospital Montgomery
+LewisGale Hospital Pulaski
+LewisGale Medical Center
+Martinsville Memorial Hospital
+Mary Washington Hospital
+Mountain View Regional Medical Center
+Naval Medical Center Portsmouth
+Norton Community Hospital
+Page Memorial Hospital
+Pioneer Community Hospital of Patrick
+Poplar Springs Hospital
+Prince William Health System
+Rappahannock General Hospital
+Reston Hospital Center
+Retreat Doctors' Hospital
+Riverside Behavioral Health Center
+Riverside Doctors' Hospital Williamsburg
+Riverside Regional Medical Center
+Riverside Rehabilitation Institute
+Riverside Shore Memorial Hospital
+Riverside Tappahannock Hospital
+Riverside Walter Reed Hospital
+Russell County Medical Center
+Sentara CarePlex Hospital
+Sentara Halifax Regional Hospital
+Sentara Leigh Hospital
+Sentara Martha Jefferson Hospital
+Sentara Norfolk General Hospital
+Sentara Northern Virginia Medical Center
+Sentara Obici Hospital
+Sentara Princess Anne Hospital
+Sentara RMH Medical Center
+Sentara Virginia Beach General Hospital
+Sentara Williamsburg Regional Medical Center
+Shenandoah Memorial Hospital
+Smyth County Community Hospital
+Southern Virginia Regional Medical Center
+Southampton Memorial Hospital
+Southside Regional Medical Center
+Spotsylvania Regional Medical Center
+Stafford Hospital
+StoneSprings Hospital Center
+Twin County Regional Healthcare
+University of Virginia Children's Hospital
+University of Virginia Health System
+VCU Health Community Memorial Hospital
+VCU Medical Center
+Virginia Hospital Center
+Warren Memorial Hospital
+Wellmont Lonesome Pine Mt. View Hospital
+Winchester Medical Center
+Wythe County Community Hospital
+Cascade Medical Center
+Cascade Valley Hospital
+Central Washington Hospital
+Columbia Basin Hospital
+Coulee Medical Center
+Dayton General Hospital
+East Adams Rural Healthcare
+EvergreenHealth Medical Center
+EvergreenHealth Monroe
+Ferry County Memorial Hospital
+Forks Community Hospital
+Garfield County Public Hospital
+Grays Harbor Community Hospital
+Harborview Medical Center
+Harrison Medical Center
+Highline Community Hospital Specialty Center
+Highline Medical Center
+Island Hospital
+Jefferson Healthcare Hospital
+Kadlec Regional Medical Center
+Kaiser Permanente Capitol Hill
+Kindred Hospital Seattle - First Hill
+Kindred Hospital Seattle - North Gate
+Kittitas Valley Healthcare
+Klickitat Valley Health
+Lake Chelan Community Hospital
+Legacy Salmon Creek Hospital
+Lincoln Hospital
+Lourdes Counseling Center
+Lourdes Medical Center
+Madigan Army Medical Center
+Mary Bridge Children's Hospital
+Mason General Hospital
+Mid-Valley Hospital
+Morton General Hospital
+MultiCare Allenmore Hospital
+MultiCare Auburn Medical Center
+MultiCare Covington
+MultiCare Deaconess Hospital
+MultiCare Good Samaritan Hospital
+MultiCare Tacoma General Hospital
+MultiCare Valley Hospital
+Naval Hospital Bremerton
+Newport Community Hospital
+North Valley Hospital
+Northwest Hospital
+Ocean Beach Hospital
+Odessa Memorial Healthcare Center
+Olympic Memorial Hospital
+Othello Community Hospital
+Overlake Hospital Medical Center
+PeaceHealth Peace Island Hospital
+PeaceHealth Southwest Medical Center
+PeaceHealth St. John Medical Center
+PeaceHealth St. Joseph Medical Center
+PeaceHealth United General Medical Center
+Prosser Memorial Hospital
+Providence Centralia Hospital
+Providence Holy Family Hospital
+Providence Mount Carmel Hospital
+Providence Regional Medical Center Everett
+Providence Sacred Heart Medical Center
+Providence St. Joseph's Hospital
+Providence St. Mary Medical Center
+Providence St. Peter Hospital
+Pullman Regional Hospital
+Quincy Valley Medical Center
+Regional Hospital for Respiratory and Complex Care
+Samaritan Healthcare
+Seattle Cancer Care Alliance
+Seattle Children's
+Shriners Hospital for Children
+Skagit Valley Hospital
+Skyline Hospital
+Snoqualmie Valley Hospital
+St. Anthony Hospital
+St. Clare Hospital
+St. Elizabeth Hospital
+St. Francis Hospital
+St. Joseph Medical Center
+St. Luke's Rehabilitation Institute
+Summit Pacific Medical Center
+Swedish Medical Center Ballard
+Swedish Medical Center Cherry Hill
+Swedish Medical Center Edmonds
+Swedish Medical Center First Hill
+Swedish Medical Center Issaquah
+Three Rivers Hospital
+Tri-State Memorial Hospital
+Trios Health
+University of Washington Medical Center
+Seattle VA Medical Center
+Valley Medical Center
+Virginia Mason Hospital
+Virginia Mason Memorial Hospital
+Wenatchee Valley Medical Center
+WhidbeyHealth Medical Center
+Whitman Hospital and Medical Center
+Willapa Harbor Hospital
+East Valley Medical Center
+Tulip Hospital Center
+Pinevalley Hospital Center
+New Horizons Medical Center
+Hot Springs Community Hospital
+Silverstone Medical Center
+White Wing Hospital
+Rose Gardens General Hospital
+Alliance Hospital
+Progress Hospital
+Lilypad Medical Center
+White Blossom Hospital Center
+Noble Hospital Center
+Lilypad Gardens General Hospital
+Bayhealth Hospital
+Summerfield Medical Clinic
+White Wing Clinic
+Citrus General Hospital
+Clearwater Valley General Hospital
+Laguna Hospital
+ACMH Hospital
+AHMC Anaheim Regional Medical Center
+AHS Southcrest Hospital, LLC dba Hillcrest Hospital South
+AMITA Health Adventist Medical Center Bolingbrook
+AMITA Health Adventist Medical Center GlenOaks
+AMITA Health Adventist Medical Center Hinsdale
+AMITA Health Adventist Medical Center La Grange
+AMITA Health Alexian Brothers Medical Center Elk Grove Village
+AMITA Health Mercy Medical Center Aurora
+AMITA Health Resurrection Medical Center Chicago
+AMITA Health Saint Francis Hospital Evanston
+AMITA Health Saint Joseph Hospital Chicago
+AMITA Health Saint Joseph Hospital Elgin
+AMITA Health Saint Joseph Medical Center Joliet
+AMITA Health Saints Mary and Elizabeth Medical Center Chicago
+AMITA Health St. Alexius Medical Center Hoffman Estates
+AMITA Health St. Mary's Hospital Kankakee
+Abbeville General Hospital
+Abbott Northwestern Hospital
+Abilene Regional Medical Center
+Abington Health Lansdale Hospital
+Abington Memorial Hospital
+Abrazo Arrowhead Campus
+Abrazo Central
+Abrazo Scottsdale Campus
+Abrazo West Campus
+Acadia General Hospital (American Legion Hospital)
+Addison Gilbert Hospital
+Adena Regional Medical Center
+Adirondack Medical Center - Saranac Lake
+AdventHealth Altamonte Springs
+AdventHealth Apopka
+AdventHealth Carrollwood
+AdventHealth Celebration
+AdventHealth Central Texas
+AdventHealth Dade City
+AdventHealth Daytona Beach
+AdventHealth DeLand
+AdventHealth East Orlando
+AdventHealth Fish Memorial
+AdventHealth Gordon
+AdventHealth Hendersonville
+AdventHealth Kissimmee
+AdventHealth Lake Placid
+AdventHealth Lake Wales
+AdventHealth New Smyrna Beach
+AdventHealth North Pinellas
+AdventHealth Ocala
+AdventHealth Orlando
+AdventHealth Ottawa
+AdventHealth Palm Coast
+AdventHealth Sebring
+AdventHealth Shawnee Mission
+AdventHealth Tampa
+AdventHealth Waterman
+AdventHealth Wesley Chapel
+AdventHealth Winter Park
+AdventHealth Zephyrhills
+Adventhealth Heart of Florida
+Adventist Health - Bakersfield
+Adventist Health Castle
+Adventist Health Glendale
+Adventist Health Lodi Memorial
+Adventist Health Portland Medical Center
+Adventist Health Simi Valley
+Adventist Health Sonora
+Adventist Health St. Helena
+Adventist Health Ukiah Valley
+Adventist Health White Memorial
+Adventist Health and Rideout
+Adventist HealthCare Shady Grove Medical Center
+Adventist HealthCare White Oak Medical Center
+Adventist Medical Center Hanford
+Adventist Medical Center Selma
+Advocate BroMenn Medical Center
+Advocate Christ Medical Center
+Advocate Condell Medical Center
+Advocate Good Samaritan Hospital
+Advocate Good Shepherd Hospital
+Advocate Illinois Masonic Medical Center
+Advocate Lutheran General Hospital
+Advocate Sherman Hospital
+Advocate South Suburban Hospital
+Advocate Trinity Hospital
+Aiken Regional Medical Centers
+Alamance Regional Medical Center
+Alameda Hospital
+Alaska Regional Hospital
+Albany Medical Center
+Albany Memorial Hospital
+Alhambra Hospital Medical Center
+Alice Hyde Medical Center
+Allegheny General Hospital
+Allegheny Valley Hospital
+Allen Hospital
+Alliance Community Hospital
+AllianceHealth Durant
+AllianceHealth Midwest
+AllianceHealth Ponca City
+Alomere Health
+Alta Bates Summit Medical Center
+Alta View Hospital
+Alton Memorial Hospital
+Altru Health System
+Alvarado Hospital Medical Center
+American Fork Hospital
+AnMed Health Medical Center
+Andalusia Health
+Anderson Hospital
+Anderson Regional Medical Center - North
+Anna Jaques Hospital
+Anne Arundel Medical Center
+Annie Penn Hospital
+Antelope Valley Hospital
+Arkansas Methodist Medical Center
+Arnot Ogden Medical Center
+Arrowhead Regional Medical Center
+Arroyo Grande Community Hospital
+Asante Ashland Community Hospital
+Asante Rogue Regional Medical Center
+Asante Three Rivers Medical Center
+Ascension All Saints Hospital - Spring Street Campus
+Ascension Borgess Hospital
+Ascension Columbia St Mary's Hospital Milwaukee
+Ascension Columbia St Mary's Hospital Ozaukee
+Ascension Genesys Hospital
+Ascension Macomb-Oakland Hospital, Madison Heights Campus
+Ascension Macomb-Oakland Hospital, Warren Campus
+Ascension NE Wisconsin - Mercy Campus
+Ascension NE Wisconsin - St Elizabeth Campus
+Ascension Providence Hospital, Novi Campus
+Ascension Providence Hospital, Southfield Campus
+Ascension Providence Rochester Hospital
+Ascension River District Hospital
+Ascension SE Wisconsin Hospital - Elmbrook Campus
+Ascension SE Wisconsin Hospital - Franklin Campus
+Ascension SE Wisconsin Hospital - St. Joseph Campus
+Ascension St John Hospital
+Ascension St Mary's Hospital
+Ascension St Michael's Hospital
+Ascension St. Clare's Hospital
+Ascension St. Francis Hospital
+Ascension St. Mary's Hospital
+Ascension St. Vincent's Riverside
+Ascension Via Christi Hospital
+Ashley Regional Medical Center
+Ashtabula County Medical Center
+Aspirus Riverview Hospital
+Aspirus Wausau Hospital
+Astria Regional Medical Center
+Athens-Limestone Hospital
+Atlanta Medical Center
+Atlanta Medical Center South Campus
+Atlantic General Hospital
+Atlanticare Regional Medical Center - City Campus
+Atlanticare Regional Medical Center-Mainland Campus
+Atrium Health Cabarrus
+Atrium Health Cleveland
+Atrium Health Lincoln
+Atrium Health Pineville
+Atrium Health Stanly
+Atrium Health Union
+Atrium Health University City
+Atrium Medical Center
+Auburn Community Hospital
+Augusta Health
+Augusta University Medical Center
+Aultman Hospital
+Aurelia Osborn Fox Memorial Hospital
+Aurora BayCare Medical Center
+Aurora Lakeland Medical Center
+Aurora Medical Center - Manitowoc County
+Aurora Medical Center Burlington
+Aurora Medical Center Grafton
+Aurora Medical Center Summit
+Aurora Medical Center of Kenosha
+Aurora Medical Center of Oshkosh
+Aurora Medical Center of Washington County
+Aurora Sheboygan Memorial Medical Center
+Aurora Sinai Medical Center
+Aurora St Luke's Medical Center of Aurora Health Care Metro, Inc
+Aurora St. Luke's South Shore
+Aurora West Allis Medical Center
+Aventura Hospital and Medical Center
+Avera McKennan Hospital and University Health Center
+Avera Queen of Peace Hospital
+Avera Sacred Heart Hospital
+Avera St Mary's Hospital
+Avera St. Luke's Hospital
+BANNER - UNIVERSITY MEDICAL CENTER PHOENIX
+BANNER BAYWOOD MEDICAL CENTER
+BANNER BOSWELL MEDICAL CENTER
+BANNER DEL E WEBB MEDICAL CENTER
+BANNER DESERT MEDICAL CENTER
+BANNER ESTRELLA MEDICAL CENTER
+BANNER GATEWAY MEDICAL CENTER
+BANNER THUNDERBIRD MEDICAL CENTER
+BLAKE MEDICAL CENTER
+BMHMC DBA LI COMMUNITY HOSPITAL
+BRANDON REGIONAL HOSPITAL
+Bailey Medical Center LLC
+Bakersfield Heart Hospital
+Bakersfield Memorial Hospital
+Banner Casa Grande Medical Center
+Banner Ironwood Medical Center
+Banner University Medical Center-South
+Banner University Medical Center-Tucson
+Baptist Beaumont Hospital of Southeast Texas
+Baptist Health - Fort Smith
+Baptist Health Corbin
+Baptist Health Floyd
+Baptist Health La Grange
+Baptist Health Lexington
+Baptist Health Louisville
+Baptist Health Madisonville
+Baptist Health Medical Center - Conway
+Baptist Health Medical Center - North Little Rock
+Baptist Health Medical Center-Little Rock
+Baptist Health Paducah
+Baptist Health Richmond
+Baptist Health South Florida Baptist Hospital of Miami
+Baptist Health South Florida Doctors Hospital
+Baptist Health South Florida Homestead Hospital
+Baptist Health South Florida South Miami Hospital
+Baptist Health South Florida West Kendall Baptist Hospital
+Baptist Hospital
+Baptist Medical Center
+Baptist Medical Center Beaches
+Baptist Medical Center East
+Baptist Medical Center Jacksonville
+Baptist Medical Center Nassau
+Baptist Medical Center South
+Baptist Medical Center South
+Baptist Memorial Hospital - North Mississippi
+Baptist Memorial Hospital - Union City
+Baptist Memorial Hospital DeSoto
+Baptist Memorial Hospital Golden Triangle
+Baptist Memorial Hospital of Collierville
+Baptist Memorial Hospital of Memphis
+Baptist Memorial Hospital of Union County
+Baptist Saint Anthony's Hospital
+Barnes-Jewish Hospital
+Barnes-Jewish St. Peters Hospital
+Barnes-Jewish West County Hospital
+Barton Memorial Hospital
+Bartow Regional Medical Center
+Bassett Medical Center
+Baton Rouge General Medical Center
+Baxter Regional Medical Center
+Bay Area Hospital
+Bay Area Medical Center
+Bayfront Health Port Charlotte
+Bayfront Health Punta Gorda
+Bayfront Health St. Petersburg
+Bayhealth Hospital Sussex Campus
+Bayhealth Kent Campus
+Baylor Scott & White - McKinney
+Baylor Scott & White All Saints Medical Center - Fort Worth
+Baylor Scott & White Heart and Vascular Hospital Dallas
+Baylor Scott & White Medical Center - College Station
+Baylor Scott & White Medical Center - Irving
+Baylor Scott & White Medical Center - Marble Falls
+Baylor Scott & White Medical Center - Temple
+Baylor Scott & White Medical Center - Waxahachie
+Baylor Scott & White Medical Center Centennial
+Baylor Scott & White Medical Center Plano
+Baylor Scott & White Medical Center at Carrollton
+Baylor Scott & White Medical Center- Hillcrest
+Baylor Scott and White Medical Center - Lake Pointe
+Baylor Scott and White Medical Center - Sunnyvale
+Baylor Scott and White Medical Center at Grapevine
+Baylor St. Luke's Medical Center
+Baylor University Medical Center at Dallas
+Bayshore Medical Center
+Baystate Franklin Medical Center
+Baystate Medical Center
+Baystate Noble Hospital
+Baystate Wing Hospital
+Beaufort Memorial Hospital
+Beaumont Hospital - Grosse Pointe
+Beaumont Hospital - Troy
+Beaumont Hospital, Dearborn
+Beaumont Hospital, Farmington Hills
+Beaumont Hospital, Royal Oak
+Beaumont Hospital, Taylor
+Beaumont Hospital, Trenton
+Beaumont Hospital, Wayne
+Beauregard Health System
+Beckley ARH Hospital
+Beebe Healthcare
+Bellevue Medical Center
+Bellin Memorial Hospital
+Beloit Memorial Hospital
+Belton Regional Medical Center
+Ben Taub General Hospital
+Benefis Hospitals
+Berger Health System
+Berkeley Medical Center
+Berkshire Medical Center
+Beth Israel Deaconess Hospital - Needham
+Beth Israel Deaconess Hospital Plymouth
+Beth Israel Deaconess Hospital-Milton
+Beth Israel Deaconess Medical Center
+Bethesda Butler Hospital
+Bethesda Hospital Inc.
+Bethesda Hospital West
+Bethesda North Hospital
+Betsy Johnson Regional Hospital
+Beverly Hospital
+Beverly Hospital
+Billings Clinic
+Blanchard Valley Health System- Blanchard Valley Hospital
+Blessing Hospital
+Blount Memorial Hospital
+Blue Ridge HealthCare Hospitals
+Bluefield Regional Medical Center
+Bluffton Regional Medical Center
+Boca Raton Regional Hospital
+Bolivar Medical Center
+Bon Secours DePaul Medical Center
+Bon Secours Hospital
+Bon Secours Mary Immaculate Hospital
+Bon Secours Maryview Medical Center
+Bon Secours Memorial Regional Medical Center
+Bon Secours St. Francis Hospital
+Bon Secours St. Francis Medical Center
+Bon Secours St. Mary's Hospital of Richmond
+Boone Hospital Center
+Boston Medical Center
+Bothwell Regional Health Center
+Boulder Community Foothills Hospital
+Bozeman Health Deaconess Hospital
+Bradford Regional Medical Center
+Brandywine Hospital
+Brattleboro Memorial Hospital
+Bridgeport Hospital
+Brigham And Women's Hospital
+Brigham and Women's Faulkner Hospital
+Bristol Hospital
+Bristol Regional Medical Center
+Broadlawns Medical Center
+Bronson Battle Creek
+Bronson Methodist Hospital
+BronxCare Health System
+Brookdale Hospital Medical Center
+Brooks Memorial Hospital
+Brookwood Baptist Medical Center
+Broward Health Coral Springs
+Broward Health Imperial Point
+Broward Health Medical Center
+Broward Health North
+Brownwood Regional Medical Center
+Bryan East Campus
+Bryan West Campus
+Bryn Mawr Hospital
+Buffalo General Medical Center
+Butler Memorial Hospital
+CAMC General Hospital
+CAMC Teays Valley Hospital
+CENTRAL CAROLINA HOSPITAL
+CGH Medical Center
+CHA Cambridge Hospital
+CHA Everett Hospital
+CHI Health Creighton University Medical Center - Bergan Mercy
+CHI Health Good Samaritan
+CHI Health Immanuel
+CHI Health Lakeside
+CHI Health Mercy Council Bluffs
+CHI Health St Francis
+CHI Health St. Elizabeth
+CHI Mercy Health Mercy Medical Center
+CHI St Luke's Health - Sugar Land Hospital
+CHI St Luke's Hospital at The Vintage
+CHI St. Alexius Health
+CHI St. Joseph Health College Station Hospital
+CHI St. Joseph Health Regional
+CHI St. Luke's Health Brazosport
+CHI St. Luke's Health Memorial
+CHI St. Luke's Health Memorial Livingston
+CHI St. Luke's Health The Woodlands Hospital
+CHI St. Vincent Hot Springs
+CHI St. Vincent Infirmary Medical Center
+CHI St. Vincent Medical Center-North
+CHRISTUS Good Shepherd Medical Center - Longview
+CHRISTUS Good Shepherd Medical Center-Marshall
+CHRISTUS Health Shreveport-Bossier
+CHRISTUS Mother Frances Hospital - Sulphur Springs
+CHRISTUS Mother Frances Hospital - Tyler
+CHRISTUS Ochsner Lake Area
+CHRISTUS Ochsner St. Patrick Hospital of Lake Charles
+CHRISTUS Santa Rosa Health Care - Medical Center
+CHRISTUS Santa Rosa Hospital - New Braunfels
+CHRISTUS Santa Rosa Hospital - Westover Hills
+CHRISTUS Southeast Texas St. Elizabeth
+CHRISTUS Spohn Hospital Alice
+CHRISTUS Spohn Hospital Corpus Christi - Shoreline
+CHRISTUS Spohn Hospital Corpus Christi - South
+CHRISTUS Spohn Hospital Corpus Christi Memorial
+CHRISTUS Spohn Hospital Kleberg
+CHRISTUS St. Frances Cabrini Hospital
+CHRISTUS St. Michael Health System
+CHRISTUS St. Vincent Regional Medical Center
+CJW Medical Center - Chippenham Campus
+CJW Medical Center - Johnston-Willis Campus
+COMMUNITY HOSPITAL OF SAN BERNARDINO
+Cabell Huntington Hospital
+Caldwell UNC Healthcare
+California Hospital Medical Center
+California Pacific Medical Center - California Campus
+California Pacific Medical Center - Mission Bernal Campus
+California Pacific Medical Center - Pacific Campus
+CalvertHealth Medical Center
+Cambridge Medical Center
+Camden Clark Medical Center
+Cameron Regional Medical Center
+Campbell County Health
+Candler Hospital
+Canonsburg General Hospital
+Canton-Potsdam Hospital
+Canyon Vista Medical Center
+Cape Canaveral Hospital
+Cape Cod Hospital
+Cape Coral Hospital
+Cape Fear Valley Medical Center
+Cape Regional Medical Center
+Capital Health Medical Center - Hopewell
+Capital Health Regional Medical Center
+Capital Medical Center
+Capital Region Medical Center
+Capital Regional Medical Center
+CarePoint Health-Bayonne Medical Center
+CarePoint Health-Christ Hospital
+Carepoint Health-Hoboken University Medical Center
+Carilion New River Valley Medical Center
+Carilion Roanoke Memorial Hospital
+Carle Foundation Hospital
+Carlsbad Medical Center
+Carney Hospital
+CaroMont Regional Medical Center
+Carolina Pines Regional Medical Center
+CarolinaEast Medical Center
+Carolinas Medical Center
+Carolinas Medical Center - Mercy
+Carondelet St. Joseph's Hospital
+Carondelet St. Mary's Hospital
+Carroll Hospital Center
+Carson Tahoe Regional Medical Center
+Carteret Health Care
+Cartersville Medical Center
+Cary Medical Center
+Castleview Hospital
+Catawba Valley Medical Center
+Catholic Health System - Kenmore Mercy Hospital
+Catholic Health System - Mercy Hospital of Buffalo
+Catholic Health System - Mount St. Mary's Hospital
+Catholic Health System - Sisters of Charity Hospital
+Catholic Health System -Sisters Hospital - St. Joseph Campus
+Catholic Medical Center
+Catskill Regional Medical Center of Harris
+Cayuga Medical Center at Ithaca
+Cedar City Hospital
+Cedar Park Regional Medical Center
+Cedars-Sinai Medical Center
+Centennial Hills Hospital Medical Center
+Centerpoint Medical Center
+Centinela Hospital Medical Center
+Centra Lynchburg General Hospital
+Centra Southside Community Hospital
+Centra Virginia Baptist Hospital
+CentraState Medical Center
+Central Florida Regional Hospital
+Central Harnett Hospital
+Central Maine Medical Center
+Central Peninsula General Hospital
+Central Texas Medical Center
+Central Vermont Medical Center
+Centura Health Castle Rock Adventist Hospital
+Centura Health-Avista Adventist Hospital
+Centura Health-Littleton Adventist Hospital
+Centura Health-Penrose Hospital
+Centura Health-Porter Adventist Hospital
+Centura Health-St. Anthony Hospital
+Centura Health-St. Anthony North Hospital
+Centura Health-St. Francis Medical Center
+Centura Health-St. Mary Corwin Medical Center
+Centura Parker Adventist Hospital
+Champlain Valley Physicians Hospital
+Chan Soon-Shiong Medical Center at Windber
+Chandler Regional Medical Center
+Charlotte Hungerford Hospital
+Charlton Memorial Hospital
+Chesapeake Regional Medical Center
+Cheshire Medical Center
+Chester County Hospital
+Cheyenne Regional Medical Center - West Campus
+Chilton Medical Center
+Chinese Hospital
+Christian Hospital
+Christiana Care Health System - Christiana Hospital
+Christiana Care Health System - Wilmington Hospital
+Citizens Medical Center
+Citizens Memorial Hospital
+Citrus Memorial Hospital
+City Hospital at White Rock
+Clara Maass Medical Center
+Clarion Hospital
+Clark Memorial Hospital
+Clark Regional Medical Center
+Claxton-Hepburn Medical Center
+Cleveland Clinic Akron General Medical Center
+Cleveland Clinic Avon Hospital
+Cleveland Clinic Florida
+Cleveland Clinic Foundation
+Cleveland Clinic Health System - Euclid Hospital
+Cleveland Clinic Health System - Fairview Hospital
+Cleveland Clinic Health System - Hillcrest Hospital
+Cleveland Clinic Health System - Lutheran Hospital
+Cleveland Clinic Health System - Marymount Hospital
+Cleveland Clinic Health System - Medina General Hospital
+Cleveland Clinic Health System - South Pointe Hospital
+Cleveland Clinic Indian River Hospital
+Cleveland Clinic Martin North Hospital
+Cleveland Clinic Martin South Hospital
+Cleveland Clinic Tradition Hospital
+Clinch Valley Medical Center
+Coffee Regional Medical Center
+Coffeyville Regional Medical Center
+Coliseum Medical Centers
+Coliseum Northside Hospital
+College Medical Center
+Colleton Medical Center
+Colorado Plains Medical Center
+Colquitt Regional Medical Center
+Columbus Community Hospital
+Columbus Regional Healthcare System
+Columbus Regional Hospital
+Comanche County Memorial Hospital
+Community First Medical Center
+Community Health Center of Branch County dba ProMedica Coldwater Regional Hospital
+Community Hospital
+Community Hospital - South Campus
+Community Hospital Anderson
+Community Hospital East
+Community Hospital North
+Community Hospital South
+Community Hospital of the Monterey Peninsula
+Community Medical Center of Toms River
+Community Memorial Hospital
+Community Memorial Hospital
+Concord Hospital
+Cone Health -Moses H. Cone Memorial Hospital
+Coney Island Hospital
+Contra Costa Regional Medical Center
+Conway Medical Center
+Conway Regional Medical Center
+Cookeville Regional Medical Center
+Cooley Dickinson Hospital
+Cooper University Hospital
+Coral Gables Hospital
+Corona Regional Medical Center
+Corpus Christi Medical Center - Bay Area - Heart
+Corpus Christi Medical Center - DRMC
+Covenant Hospital Plainview
+Covenant Medical Center
+Covenant Medical Center Harrison Campus
+Cox Medical Center Branson
+Cox Medical Center South
+Crestwood Medical Center
+Crisp Regional Hospital
+Crossroads Community Hospital
+Crouse Hospital
+Cullman Regional Medical Center
+Cumberland Medical Center
+D. W. McMillan Memorial Hospital
+DCH Regional Medical Center
+DLP Conemaugh Memorial Medical Center
+DOCTORS HOSPITAL OF SARASOTA
+Dallas Medical Center
+Dallas Regional Medical Center
+Danbury Hospital
+Danville Regional Medical Center
+Dartmouth-Hitchcock Medical Center
+Daviess Community Hospital
+Davis Hospital and Medical Center
+Davis Medical Center
+Day Kimball Hospital
+DeGraff Memorial Hospital
+DeKalb Memorial Hospital
+DeTar Hospital Navarro
+DeTar Hospital North
+Deaconess Gateway Hospital
+Deaconess Midtown Hospital
+Dearborn County Hospital DBA Highpoint Health
+Decatur Memorial Hospital
+Deer Valley Medical Center
+Del Sol Medical Center
+Dell Seton Medical Center at the University of Texas
+Delray Medical Center
+Delta County Memorial Hospital
+Delta Regional Medical Center
+Denver Health Medical Center
+Desert Regional Medical Center
+Desert Springs Hospital Medical Center
+Desert Valley Hospital
+Detroit Receiving Hospital and University Health Center
+Dickinson County Healthcare System
+Dignity Health St. Bernardine Medical Center
+Divine Savior Healthcare
+Dixie Regional Medical Center
+Doctors Community Hospital
+Doctors Hospital at Renaissance
+Doctors Hospital of Augusta
+Doctors Hospital of Laredo
+Doctors Hospital of Manteca
+Doctors Medical Center of Modesto
+Dominican Hospital
+Doylestown Hospital
+Duke Raleigh Hospital
+Duke Regional Hospital
+Duke University Hospital
+Duncan Regional Hospital
+Dupont Hospital
+East Alabama Medical Center
+East Alabama Medical Center - Lanier
+East Georgia Regional Medical Center
+East Jefferson General Hospital
+East Liverpool City Hospital
+East Orange General Hospital
+Eastern Idaho Regional Medical Center
+Eastern Niagara Hospital Lockport
+Easton Hospital
+Eastside Medical Center
+Eden Medical Center
+Edinburg Regional Medical Center
+Edward Hospital
+Einstein Medical Center Elkins Park
+Einstein Medical Center Montgomery
+Einstein Medical Center Philadelphia
+Eisenhower Medical Center
+El Camino Hospital
+El Camino Hospital Los Gatos
+El Centro Regional Medical Center
+Elkhart General Hospital
+Elliot Hospital
+Ellis Hospital
+Elmhurst Memorial Hospital
+Emanate Health Foothill Presbyterian Hospital
+Emanate Health Inter-Community Hospital
+Emanate Health Queen of the Valley Hospital
+Emanuel Medical Center
+Emerson Hospital
+Emory Decatur Hospital
+Emory Hillandale Hospital
+Emory Johns Creek Hospital
+Emory St. Joseph's Hospital
+Emory University Hospital
+Emory University Hospital Midtown
+Englewood Community Hospital
+Englewood Hospital and Medical Center
+Enloe Medical Center
+Ephraim McDowell Regional Medical Center
+Erie County Medical Center
+Erlanger Baroness Hospital
+Erlanger East Hospital
+Eskenazi Health
+Essentia Health - Fargo
+Essentia Health - Saint Joseph's Medical Center
+Essentia Health - Virginia Clinic
+Essentia Health Saint Mary's Medical Center
+Essentia Health St. Mary's - Detroit Lakes
+Evangelical Community Hospital
+EvergreenHealth
+Exeter Hospital
+F.F. Thompson Hospital
+FHN Memorial Hospital
+FRANKFORT REGIONAL MEDICAL CENTER
+FRYE REGIONAL MEDICAL CENTER
+Fairfield Medical Center
+Fairview Northland Medical Center
+Fairview Park Hospital
+Fairview Range
+Fairview Ridges Hospital
+Fairview Southdale Hospital
+Faith Regional Health Services
+Falmouth Hospital
+Fauquier Hospital
+Fawcett Memorial Hospital
+Faxton St Luke's Healthcare
+Firelands Regional Medical Center Main Campus
+FirstHealth Moore Regional Hospital
+FirstHealth Moore Regional Hospital - Richmond
+Fisher-Titus Medical Center
+Flaget Memorial Hospital
+Flagler Hospital
+Flagstaff Medical Center
+Florida Medical Center
+Flowers Hospital
+Floyd Medical Center
+Flushing Hospital Medical Center
+Forbes Hospital
+Forrest General Hospital
+Fort Duncan Regional Medical Center
+Fort Loudoun Medical Center
+Fort Memorial Hospital
+Fort Sanders Regional Medical Center
+Fort Walton Beach Medical Center
+Fort Washington Medical Center
+Fountain Valley Regional Hospital and Medical Center
+Franciscan Health Crawfordsville
+Franciscan Health Lafayette East
+Franciscan St. James Health - Olympia Fields
+Franklin Memorial Hospital
+Franklin Woods Community Hospital
+Frederick Health Hospital
+Freeman Health System
+French Hospital Medical Center
+Frisbie Memorial Hospital
+Froedtert Hospital
+Gadsden Regional Medical Center
+Garden City Hospital
+Garden Grove Hospital and Medical Center
+Garden Park Medical Center
+Garfield Medical Center
+Garrett Regional Medical Center
+Geisinger Bloomsburg Hospital
+Geisinger Community Medical Center
+Geisinger Holy Spirit Hospital
+Geisinger Lewistown Hospital
+Geisinger Medical Center
+Geisinger Shamokin Area Community Hospital
+Geisinger Wyoming Valley Medical Center
+Genesis Hospital
+Genesis Medical Center, Silvis
+Genesis Medical Center-Davenport
+Geneva General Hospital
+George Washington University Hospital
+Georgetown Community Hospital
+Gerald Champion Regional Medical Center
+Gila Regional Medical Center
+Glen Cove Hospital
+Glendale Memorial Hospital and Health Center
+Glens Falls Hospital
+Glenwood Regional Medical Center
+Golden Valley Memorial Healthcare
+Good Samaritan Hospital
+Good Samaritan Hospital Medical Center
+Good Samaritan Hospital of Cincinnati
+Good Samaritan Hospital of Los Angeles
+Good Samaritan Hospital of San Jose
+Good Samaritan Medical Center
+Good Samaritan Medical Center
+Good Samaritan Regional Medical Ctr
+Goshen Hospital
+Grady Memorial Hospital Corporation
+Graham Hospital
+Grand Itasca Clinic and Hospital
+Grand Strand Medical Center
+Grand View Health
+Grandview Medical Center
+Great Plains Health
+Great Plains Regional Medical Center
+Great River Medical Center
+Greater Baltimore Medical Center
+Greater El Monte Community Hospital
+Greenbrier Valley Medical Center
+Greeneville Community Hospital West
+Greenwich Hospital
+Greenwood Leflore Hospital
+Griffin Hospital
+Grinnell Regional Medical Center
+Grove City Medical Center
+Guadalupe Regional Medical Center
+Gulf Breeze Hospital
+Gulf Coast Medical Center
+Gulf Coast Regional Medical Center
+Gundersen Lutheran Medical Center
+Guthrie Corning Hospital
+Guthrie Cortland Medical Center
+Guthrie Robert Packer Hospital
+Gwinnett Medical Center - Duluth
+Gwinnett Medical Center Lawrenceville
+HCA Houston Healthcare Clear Lake
+HCA Houston Healthcare Conroe
+HCA Houston Healthcare Kingwood
+HCA Houston Healthcare Mainland
+HCA Houston Healthcare Medical Center
+HCA Houston Healthcare Northwest
+HCA Houston Healthcare Pearland
+HCA Houston Healthcare Southeast
+HCA Houston Healthcare West
+HCA Houston Tomball
+HMH JFK Medical Center
+HSHS Sacred Heart Hospital
+HSHS St Joseph's Hospital
+HSHS St. Anthony's Memorial Hospital
+HSHS St. Elizabeth's Hospital
+HSHS St. John's Hospital
+HSHS St. Mary's Hospital
+HSHS St. Mary's Hospital of Green Bay
+HSHS St. Nicholas Hospital
+HSHS St. Vincent Hospital of Green Bay
+Habersham Medical Center
+Hackensack Meridian Health Mountainside Medical Center
+Hackensack Meridian Health Palisades Medical Center
+Hackensack Meridian Health Pascack Valley Medical Center
+Hackensack University Medical Center
+Hackettstown Regional Medical Center
+Halifax Health Medical Center
+Halifax Health Medical Center - Port Orange
+Hamilton Medical Center
+Hancock Medical Center
+Hancock Regional Hospital
+Hannibal Regional Hospital
+Harborview Medical Center
+Hardin Memorial Hospital
+Harlan ARH Hospital
+Harlingen Medical Center
+Harper-Hutzel Hospital
+Harrington Memorial Hospital
+Harris Regional Hospital
+Harrison Medical Center
+Harrison Medical Center - Silverdale
+Harrison Memorial Hospital
+Hartford Hospital
+Havasu Regional Medical Center
+Hays Medical Center
+Haywood Regional Medical Center
+Hazard ARH Regional Medical Center
+Hazel Hawkins Memorial Hospital
+HealthAlliance of the Hudson Valley - Broadway Campus
+HealthAlliance-Clinton Hospital
+HealthAlliance-Clinton Hospital
+Healtheast St. John's Hospital
+Healtheast St. Joseph's Hospital
+Healthpark Medical Center
+Helen Keller Hospital
+Hemet Valley Medical Center
+Henderson Hospital
+Hendrick Health System
+Hendricks Regional Health
+Hennepin Healthcare
+Henrico Doctors' Hospital
+Henry Community Health
+Henry County Medical Center
+Henry Ford Allegiance Health
+Henry Ford Hospital
+Henry Ford Macomb Hospitals
+Henry Ford West Bloomfield Hospital
+Henry Ford Wyandotte Hospital
+Henry Mayo Newhall Memorial Hospital
+Heritage Valley Beaver
+Heritage Valley Sewickley
+Herrin Hospital
+Heywood Hospital
+Hi-Desert Medical Center
+Hialeah Hospital
+Highland Community Hospital
+Highland Hospital
+Highland Hospital
+Highlands Medical Center
+Highlands Regional Medical Center
+Highlands Regional Medical Center
+Highline Medical Center
+Hill Country Memorial
+Hillcrest Hospital Claremore
+Hillcrest Medical Center
+Hillsdale Hospital
+Hilo Medical Center
+Hilton Head Hospital
+Hoag Hospital Irvine
+Hoag Memorial Hospital Presbyterian
+Hollywood Presbyterian Medical Center
+Holmes Regional Medical Center
+Holy Cross Germantown Hospital
+Holy Cross Hospital
+Holy Cross Hospital
+Holy Cross Hospital
+Holy Family Hospital
+Holy Family Hospital at Merrimack Valley
+Holy Family Memorial Medical Center
+Holy Name Medical Center
+Holy Redeemer Hospital and Medical Center
+Holyoke Medical Center
+Holzer Gallipolis
+Hospital of the University of Pennsylvania
+Houston Medical Center
+Houston Methodist Baytown Hospital
+Houston Methodist Clear Lake Hospital
+Houston Methodist Hospital
+Houston Methodist Sugar Land Hospital
+Houston Methodist The Woodlands Hospital
+Houston Methodist West Hospital
+Houston Methodist Willowbrook Hospital
+Howard County General Hospital
+Howard University Hospital
+Howard Young Medical Center
+Hudson Regional Hospital
+Hugh Chatham Memorial Hospital
+Hunt Regional Medical Center
+Hunterdon Medical Center
+Huntington Beach Hospital
+Huntington Hospital
+Huntington Hospital
+Huntsville Hospital
+Huntsville Memorial Hospital
+Hurley Medical Center
+Huron Valley-Sinai Hospital
+Hutchinson Regional Medical Center
+INTEGRIS Baptist Medical Center
+INTEGRIS Bass Baptist Health Center
+INTEGRIS Canadian Valley Hospital
+INTEGRIS Deaconess
+INTEGRIS Grove Hospital
+INTEGRIS Health Edmond
+INTEGRIS Miami Hospital
+INTEGRIS Southwest Medical Center
+IU Health Arnett Hospital
+IU Health Ball Memorial Hospital
+IU Health Bloomington Hospital
+IU Health Methodist Hospital
+IU Health North Hospital
+IU Health University Hospital
+IU Health West Hospital
+Iberia Medical Center
+Illinois Valley Community Hospital
+Indian Path Community Hospital
+Indiana Regional Medical Center
+Ingalls Memorial Hospital
+Inland Valley Medical Center
+Inova Alexandria Hospital
+Inova Fair Oaks Hospital
+Inova Fairfax Hospital
+Inova Loudoun Hospital
+Inova Mount Vernon Hospital
+Inspira Medical Center Elmer
+Inspira Medical Center Vineland
+Inspira Medical Center Woodbury
+Interfaith Medical Center
+Intermountain Medical Center
+Iowa Lutheran Hospital
+Iowa Methodist Medical Center
+Iredell Memorial Hospital
+Island Hospital
+Ivinson Memorial Hospital
+JFK Medical Center
+JFK Medical Center North Campus
+JFK Memorial Hospital
+Jack Hughston Memorial Hospital
+Jackson County Memorial Hospital
+Jackson Hospital
+Jackson Hospital
+Jackson Memorial Hospital
+Jackson North Medical Center
+Jackson Park Hospital
+Jackson Purchase Medical Center
+Jackson South Medical Center
+Jackson-Madison County General Hospital
+Jamaica Hospital Medical Center
+Jane Phillips Medical Center
+Jeanes Hospital
+Jefferson Bucks
+Jefferson Cherry Hill Hospital
+Jefferson Frankford
+Jefferson Regional Medical Center
+Jefferson Regional Medical Center
+Jefferson Stratford Hospital
+Jefferson Torresdale
+Jefferson Washington Township Hospital
+Jellico Community Hospital
+Jennersville Hospital
+Jennings American Legion Hospital
+Jersey City Medical Center
+Jersey Shore University Medical Center
+Jewish Hospital
+Jewish Hospital - Mercy Health
+Jewish Hospital-Shelbyville
+John C. Lincoln Medical Center
+John D. Archbold Memorial Hospital
+John H. Stroger Jr. Hospital
+John Muir Medical Center Concord Campus
+John Muir Medical Center Walnut Creek Campus
+John Peter Smith Hospital
+John Randolph Medical Center
+Johns Hopkins Bayview Medical Center
+Johnson City Medical Center
+Johnson Memorial Hospital
+Johnson Memorial Medical Center
+Johnson Regional Medical Center
+Johnston Health
+Johnston Health Clayton
+Johnston Memorial Hospital
+Joint Township District Memorial Hospital
+Jones Memorial Hospital
+Jordan Valley Medical Center
+Jordan Valley Medical Center, West Valley Campus
+Jupiter Medical Center
+Kadlec Regional Medical Center
+Kaiser Foundation Hospital - Antioch
+Kaiser Foundation Hospital - Baldwin Park Medical Center
+Kaiser Foundation Hospital - Fremont
+Kaiser Foundation Hospital - Fresno
+Kaiser Foundation Hospital - Manteca
+Kaiser Foundation Hospital - Moanalua Medical Center
+Kaiser Foundation Hospital - Modesto
+Kaiser Foundation Hospital - Oakland
+Kaiser Foundation Hospital - Redwood City
+Kaiser Foundation Hospital - Richmond
+Kaiser Foundation Hospital - Roseville
+Kaiser Foundation Hospital - Sacramento
+Kaiser Foundation Hospital - San Diego Clairemont
+Kaiser Foundation Hospital - San Francisco
+Kaiser Foundation Hospital - San Jose
+Kaiser Foundation Hospital - San Leandro
+Kaiser Foundation Hospital - San Rafael
+Kaiser Foundation Hospital - Santa Clara
+Kaiser Foundation Hospital - Santa Rosa
+Kaiser Foundation Hospital - South Sacramento
+Kaiser Foundation Hospital - South San Francisco
+Kaiser Foundation Hospital - Vacaville
+Kaiser Foundation Hospital - Vallejo
+Kaiser Foundation Hospital - Walnut Creek
+Kaiser Foundation Hospital - West Los Angeles
+Kaiser Foundation Hospital -San Diego Zion
+Kaiser Foundation Hospital, Orange County - Anaheim
+Kaiser Foundation Hospital, Orange County-Irvine
+Kaiser Permanente Fontana Medical Center
+Kaiser Permanente Foundation Hospital South Bay
+Kaiser Permanente Foundation Hospital, Downey Medical Center
+Kaiser Permanente Los Angeles Medical Center
+Kaiser Permanente Moreno Valley Medical Center
+Kaiser Permanente Ontario Medical Center
+Kaiser Permanente Panorama City Medical Center
+Kaiser Permanente Riverside Medical Center
+Kaiser Permanente Woodland Hills Medical Center
+Kaiser Sunnyside Medical Center
+Kaiser Westside Medical Center
+Kalispell Regional Medical Center
+Kansas Medical Center
+Katherine Shaw Bethea Hospital
+Kaweah Delta Medical Center
+Kearney Regional Medical Center
+Keck Hospital of USC
+Kendall Regional Medical Center
+Kent County Memorial Hospital
+Kern Medical Center
+KershawHealth Medical Center
+Kettering Health Network - Fort Hamilton Hospital
+Kettering Health Network - Grandview Medical Center
+Kettering Health Network - Greene Memorial Hospital
+Kettering Health Network - Kettering Medical Center
+Kettering Health Network - Soin Medical Center
+Kettering Health Network - Southview Medical Center
+Kettering Health Network - Sycamore Medical Center
+King's Daughter's Health
+King's Daughters Medical Center
+King's Daughters Medical Center
+Kingman Regional Medical Center
+Kingsbrook Jewish Medical Center
+Knapp Medical Center
+Knox Community Hospital
+Kona Community Hospital
+Kootenai Health
+Kosciusko Community Hospital
+Kuakini Medical Center
+LARGO MEDICAL CENTER
+LDS Hospital
+LOMA LINDA UNIVERSITY MEDICAL CENTER-MURRIETA
+La Palma Intercommunity Hospital
+Labette Health
+Lafayette General Medical Center
+Lafayette General Orthopaedic Hospital
+Lahey Hospital and Medical Center
+Lake Charles Memorial Hospital
+Lake City Medical Center
+Lake Cumberland Regional Hospital
+Lake Granbury Medical Center
+Lake Health TriPoint Medical Center
+Lake Health West Medical Center
+Lake Huron Medical Center
+Lake Norman Regional Medical Center
+Lake Region Healthcare
+Lake Regional Health System
+Lake Shore Health Care Center - TLC Campus
+Lakeland Community Hospital Niles
+Lakeland Regional Medical Center
+Lakeland Regional Medical Center-St. Joseph
+Lakes Region General Hospital
+Lakeview Hospital
+Lakeview Hospital
+Lakeview Regional Medical Center, a Campus of Tulane Medical Center
+Lakewood Ranch Medical Center
+Lakewood Regional Medical Center
+Lancaster General Hospital
+Landmark Medical Center
+Lane Regional Medical Center
+Lankenau Medical Center
+Laredo Medical Center
+Larkin Community Hospital
+Larkin Community Hospital - Palm Springs Campus
+Las Palmas Medical Center
+Latrobe Hospital
+Lawnwood Regional Medical Center & Heart Institute
+Lawrence & Memorial Hospital
+Lawrence General Hospital
+Lawrence Memorial Hospital
+LeConte Medical Center
+Lee Memorial Hospital
+Lee's Summit Medical Center
+Leesburg Regional Medical Center
+Legacy Good Samaritan Medical Center
+Legacy Meridian Park Medical Center
+Legacy Mount Hood Medical Center
+Legacy Salmon Creek Hospital
+Legacy Silverton Medical Center
+Lehigh Regional Medical Center
+Lehigh Valley Hospital - Cedar Crest
+Lehigh Valley Hospital - Hazleton
+Lehigh Valley Hospital - Muhlenberg
+Lehigh Valley Hospital - Pocono
+Lehigh Valley Hospital - Schuylkill
+Lenoir Memorial Hospital, Incorporated
+Lenox Hill Hospital
+Leonard J. Chabert Medical Center
+Leonard Morse Hospital
+LewisGale Hospital - Alleghany
+LewisGale Hospital - Montgomery
+LewisGale Hospital - Pulaski
+LewisGale Medical Center
+Lexington Medical Center
+Liberty Hospital
+Licking Memorial Hospital
+Lima Memorial Health System
+Little Company of Mary Hospital and Health Care Centers
+Logan Regional Hospital
+Logan Regional Medical Center
+Logansport Memorial Hospital
+Loma Linda University Medical Center
+Loma Linda University Medical Center East Campus
+Lompoc Valley Medical Center
+Lone Peak Hospital
+Lonesome Pine Hospital
+Long Beach Memorial Medical Center
+Long Island Jewish Forest Hills Hospital
+Long Island Jewish Medical Center
+Long Island Jewish Valley Stream
+Longmont United Hospital
+Longview Regional Medical Center
+Loretto Hospital
+Los Alamitos Medical Center
+Los Angeles County - Harbor UCLA Medical Center
+Los Angeles County - Olive View UCLA Medical Center
+Los Angeles County University of Southern California Medical Center
+Los Robles Hospital and Medical Center
+Lourdes Hospital
+Lovelace Regional Hospital - Roswell
+Lovelace Westside Hospital
+Lovelace Women's Hospital
+Lowell General Hospital - Main Campus
+Lowell General Hospital - Saints Campus
+Lower Bucks Hospital
+Loyola Gottlieb Memorial Hospital
+Loyola University Medical Center
+Lubbock Heritage Hospital LLC dba Grace Medical Center
+Lutheran Hospital of Indiana
+Lutheran Medical Center
+Lyndon Baines Johnson Hospital
+MH Mission Hospital McDowell, LLLP
+MHP Medical Center
+MUSC Health - Marion Medical Center
+MUSC Health - Florence Medical Center
+MUSC Health - Lancaster Medical Center
+MacNeal Hospital
+Mad River Community Hospital
+Madera Community Hospital
+Madison Memorial Hospital
+Magnolia Regional Health Center
+Magnolia Regional Medical Center
+Maimonides Medical Center
+Maine General Medical Center
+Maine Medical Center
+Mainehealth DBA Southern Maine Healthcare
+Manatee Memorial Hospital
+Maple Grove Hospital
+Margaret R. Pardee Memorial Hospital
+Maria Parham Health
+Marian Regional Medical Center
+Maricopa Medical Center
+Marietta Memorial Hospital
+Marin General Hospital
+Marion General Hospital
+Marlborough Hospital
+Marshall Medical Center
+Marshall Medical Center North
+Marshall Medical Center South
+Marshfield Medical Center - Marshfield
+Marshfield Medical Center-Rice Lake
+Martin Luther King, Jr. Community Hospital
+Mary Greeley Medical Center
+Mary Rutan Hospital
+Mary Washington Hospital
+Massachusetts General Hospital
+Massena Memorial Hospital
+Matagorda Regional Medical Center
+Mather Hospital
+Maui Memorial Medical Center
+Maury Regional Hospital
+Mayo Clinic Health System - Austin
+Mayo Clinic Health System - Franciscan Healthcare in LaCrosse
+Mayo Clinic Health System - Mankato Hospital
+Mayo Clinic Health System In Red Wing
+Mayo Clinic Health System in Eau Claire
+Mayo Clinic Hospital
+Mayo Clinic Hospital
+Mayo Clinic Hospital - Methodist Campus
+Mayo Clinic Hospital - Saint Marys Campus
+McAlester Regional Health Center
+McAllen Heart Hospital
+McAllen Medical Center
+McCullough-Hyde Memorial Hospital
+McDonough District Hospital
+McKay-Dee Hospital Center
+McKee Medical Center
+McKenzie - Willamette Medical Center
+McLaren - Bay Region
+McLaren - Lapeer Region
+McLaren - Northern Michigan
+McLaren - Oakland
+McLaren Central Michigan
+McLaren Flint
+McLaren Macomb
+McLaren Port Huron
+McLeod Health Cheraw
+McLeod Health Clarendon
+McLeod Loris
+McLeod Regional Medical Center of the Pee Dee
+McLeod Seacoast
+Meadows Regional Medical Center
+Meadville Medical Center
+Mease Countryside Hospital
+Mease Dunedin Hospital
+MedStar Franklin Square Medical Center
+MedStar Georgetown University Hospital
+MedStar Good Samaritan Hospital
+MedStar Harbor Hospital
+MedStar Montgomery Medical Center
+MedStar Southern Maryland Hospital Center
+MedStar St. Mary's Hospital
+MedStar Union Memorial Hospital
+MedStar Washington Hospital Center
+Medical Center Hospital
+Medical Center at Bowling Green
+Medical Center of Aurora
+Medical Center of South Arkansas
+Medical Center of Trinity
+Medical City Alliance
+Medical City Arlington
+Medical City Dallas
+Medical City Denton
+Medical City Fort Worth
+Medical City Frisco
+Medical City Las Colinas
+Medical City Lewisville
+Medical City McKinney
+Medical City North Hills
+Medical City Plano
+Medical City Weatherford
+Medical University of South Carolina University Medical Center
+Medical West Hospital Authority, an Affiliate of UAB Health System
+Melbourne Regional Medical Center
+Melrose-Wakefield Hospital
+Memorial Health University Medical Center
+Memorial Healthcare
+Memorial Hermann - Texas Medical Center
+Memorial Hermann Cypress Hospital
+Memorial Hermann Greater Heights Hospital
+Memorial Hermann Katy Hospital
+Memorial Hermann Memorial City Medical Center
+Memorial Hermann Northeast
+Memorial Hermann Pearland Hospital
+Memorial Hermann Southeast
+Memorial Hermann Southwest Hospital
+Memorial Hermann Sugar Land Hospital
+Memorial Hermann The Woodlands Hospital
+Memorial Hixson Hospital
+Memorial Hospital
+Memorial Hospital Bellville
+Memorial Hospital Chattanooga
+Memorial Hospital East
+Memorial Hospital Jacksonville
+Memorial Hospital Miramar
+Memorial Hospital Pembroke
+Memorial Hospital West
+Memorial Hospital and Health Care Center
+Memorial Hospital at Gulfport
+Memorial Hospital of Carbondale
+Memorial Hospital of South Bend
+Memorial Hospital of Sweetwater County
+Memorial Hospital of Tampa
+Memorial Medical Center
+Memorial Medical Center
+Memorial Medical Center
+Memorial Regional Hospital
+Memorial Regional Hospital South
+Memorial Satilla Health
+MemorialCare Orange Coast Medical Center
+MemorialCare Saddleback Medical Center
+Menifee Valley Medical Center
+Menorah Medical Center
+Mercer County Community Hospital- Coldwater
+Mercy Fitzgerald Hospital
+Mercy General Hospital
+Mercy Gilbert Medical Center
+Mercy Health - St. Vincent Medical Center
+Mercy Health - Tiffin Hospital
+Mercy Health - Anderson Hospital
+Mercy Health - Clermont Hospital
+Mercy Health - Fairfield Hospital
+Mercy Health - Lorain Hospital
+Mercy Health - St. Anne Hospital
+Mercy Health - St. Charles Hospital
+Mercy Health - West Hospital
+Mercy Health Hackley Campus
+Mercy Health Lourdes
+Mercy Health Mercy Campus
+Mercy Health Saint Mary's
+Mercy Health System - Nazareth Hospital
+Mercy Hospital
+Mercy Hospital - Coon Rapids
+Mercy Hospital - Downtown
+Mercy Hospital - Southwest
+Mercy Hospital - Unity Campus
+Mercy Hospital Ada
+Mercy Hospital Ardmore
+Mercy Hospital Fort Smith
+Mercy Hospital Jefferson
+Mercy Hospital Joplin
+Mercy Hospital Lebanon
+Mercy Hospital Northwest Arkansas
+Mercy Hospital Oklahoma City
+Mercy Hospital South
+Mercy Hospital Springfield
+Mercy Hospital St. Louis
+Mercy Hospital Washington
+Mercy Hospital and Medical Center
+Mercy Hospital of Folsom
+Mercy Hospital of Iowa City
+Mercy Medical Center
+Mercy Medical Center
+Mercy Medical Center
+Mercy Medical Center
+Mercy Medical Center
+Mercy Medical Center of Redding
+Mercy Medical Center of Springfield
+Mercy Philadelphia Hospital
+Mercy Regional Medical Center
+Mercy San Juan Medical Center
+MercyOne Cedar Falls Medical Center
+MercyOne Clinton Medical Center - North Campus
+MercyOne Des Moines Medical Center
+MercyOne Dubuque Medical Center
+MercyOne North Iowa Medical Center
+MercyOne Siouxland Medical Center
+MercyOne Waterloo Medical Center
+MercyOne West Des Moines Medical Center
+Mercyhealth Hospital Rockton Ave
+Merit Health Central
+Merit Health Natchez
+Merit Health Rankin
+Merit Health River Oaks
+Merit Health River Region
+Merit Health Wesley
+Meritus Medical Center
+Methodist Charlton Medical Center
+Methodist Dallas Medical Center
+Methodist Fremont Health
+Methodist Hospital
+Methodist Hospital
+Methodist Hospital South
+Methodist Hospital of Henderson
+Methodist Hospital of Sacramento
+Methodist Hospital of Southern California
+Methodist Hospitals - Northlake Campus
+Methodist Hospitals - Southlake Campus
+Methodist Jennie Edmundson Hospital
+Methodist Le Bonheur Germantown Hospital
+Methodist Mansfield Medical Center
+Methodist Medical Center of Oak Ridge
+Methodist North Hospital
+Methodist Richardson Medical Center
+Methodist South Hospital
+Methodist Specialty & Transplant Hospital
+Methodist Stone Oak Hospital
+Methodist Texsan Hospital
+Methodist University Hospital
+Methodist West Hospital
+Metro Health - University of MI Health
+MetroHealth Medical Center
+MetroSouth Medical Center
+Metropolitan Methodist Hospital
+Metrowest Medical Center
+Miami Valley Hospital
+Michigan Medicine
+Mid Coast Hospital
+Mid-Columbia Medical Center
+MidHudson Regional Hospital of Westchester Medical Center
+MidMichigan Medical Center - Alpena
+MidMichigan Medical Center - West Branch
+MidMichigan Medical Center-Gratiot
+MidMichigan Medical Center-Midland
+MidState Medical Center
+Middlesex Health
+Midland Memorial Hospital
+Milford Regional Medical Center
+Millard Fillmore Suburban Hospital
+Mills-Peninsula Health Services
+Minden Medical Center
+Mission Community Hospital
+Mission Hospital
+Mission Hospital Laguna Beach
+Mission Hospital Regional Medical Center
+Mission Regional Medical Center
+Mission Trail Baptist Hospital
+Mississippi Baptist Medical Center
+Missouri Baptist Medical Center
+Missouri Delta Medical Center
+Mizell Memorial Hospital
+Mobile Infirmary Medical Center
+Mon Health Medical Center
+Monmouth Medical Center
+Monmouth Medical Center Southern Campus
+Monongahela Valley Hospital
+Monroe Clinic Hospital
+Monroe Hospital
+Montclair Hospital Medical Center
+Montefiore Einstein Campus
+Montefiore Moses Campus
+Montefiore New Rochelle Hospital
+Montefiore Nyack Hospital
+Montefiore Wakefield Campus
+Monterey Park Hospital
+Montrose Memorial Hospital
+Morris Hospital
+Morristown Medical Center
+Morristown-Hamblen Healthcare System
+Morton Hospital
+Morton Plant Hospital
+Morton Plant North Bay Hospital
+Mosaic Life Care at St Joseph - Medical Center
+Moses Taylor Hospital
+Mount Auburn Hospital
+Mount Carmel East Hospital
+Mount Carmel Grove City
+Mount Carmel St. Ann's Hospital
+Mount Nittany Medical Center
+Mount Pleasant Hospital
+Mount Sinai Beth Israel
+Mount Sinai Brooklyn
+Mount Sinai Medical Center
+Mount Sinai Queens
+Mount Sinai St. Luke's
+Mount Sinai West
+Mountain Point Medical Center
+Mountain View Hospital
+Mountain View Regional Hospital
+Mountain Vista Medical Center
+Mountainview Hospital
+Mountainview Regional Medical Center
+Mt. Graham Regional Medical Center
+Mt. Sinai Hospital
+MultiCare Allenmore Hospital
+MultiCare Auburn Medical Center
+MultiCare Deaconess Hospital
+MultiCare Valley Hospital
+Multicare Good Samaritan Hospital
+Munson Healthcare Cadillac Hospital
+Munson Healthcare Grayling Hospital
+Munson Healthcare Manistee Hospital
+Munson Medical Center
+Murray-Calloway County Hospital
+NCH Baker Hospital
+NCH North Naples Hospital
+NEA Baptist Memorial Hospital
+NORTHERN REGIONAL HOSPITAL
+NORTHSIDE HOSPITAL
+NORTON HOSPITAL
+NYC Health Hospitals - Metropolitan
+NYC Health Hospitals - Queens
+NYC Health & Hospitals - Harlem
+NYC Health and Hospitals - Bellevue
+NYC Health and Hospitals - Lincoln
+NYC Health and Hospitals - Woodhull
+NYC Health and Hospitals Elmhurst
+NYC Health and Hospitals Jacobi
+NYC Health and Hospitals Kings County
+NYC Health and Hospitals North Central Bronx
+NYU Langone Hospital - Brooklyn
+NYU Langone Hospitals
+NYU Winthrop Hospital
+Nacogdoches Medical Center
+Nacogdoches Memorial Hospital
+Nanticoke Memorial Hospital
+Nash Hospitals, Inc.
+Nashville General Hospital
+Nassau University Medical Center
+Natchitoches Regional Medical Center
+Nathan Littauer Hospital and Nursing Home
+National Park Medical Center
+Natividad Medical Center
+Navarro Regional Hospital
+Navicent Health Baldwin
+Nebraska Medical Center
+New Hanover Regional Medical Center
+New Milford Hospital
+New York - Presbyterian Brooklyn Methodist Hospital
+New York Community Hospital
+New York-Presbyterian Queens
+New York-Presbyterian Hospital Columbia University Medical Center
+New York-Presbyterian Hudson Valley Hospital
+New York-Presbyterian Lawrence Hospital
+New York-Presbyterian The Allen Hospital
+New York-Presbyterian, Lower Manhattan Hospital
+New York-Presbyterian/Weill Cornell Medical Center
+Newark Beth Israel Medical Center
+Newark-Wayne Community Hospital
+Newberry County Memorial Hospital
+Newport Hospital
+Newton Medical Center
+Newton Medical Center
+Newton-Wellesley Hospital
+Nix Medical Center
+Norman Regional Health System - Healthplex
+Norman Regional Hospital - Porter Campus
+North Arkansas Regional Medical Center
+North Baldwin Infirmary
+North Central Baptist Hospital
+North Colorado Medical Center
+North Florida Regional Medical Center
+North Fulton Hospital
+North Hawaii Community Hospital
+North Kansas City Hospital
+North Knoxville Medical Center
+North Memorial Health Hospital
+North Mississippi Medical Center - Tupelo
+North Mississippi Medical Center - West Point
+North Mississippi Medical Center Gilmore-Amory
+North Oaks Medical Center
+North Okaloosa Medical Center
+North Shore Medical Center
+North Shore Medical Center
+North Shore University Hospital
+North Suburban Medical Center
+North Texas Medical Center
+North Vista Hospital
+NorthBay Medical Center
+NorthBay VacaValley Hospital
+NorthShore University HealthSystem -Evanston Hospital
+NorthShore University HealthSystem -Glenbrook Hospital
+NorthShore University HealthSystem -Skokie Hospital
+NorthShore University HealthSystem-Highland Park Hospital
+Northcrest Medical Center
+Northeast Baptist Hospital
+Northeast Georgia Medical Center
+Northeast Methodist Hospital
+Northeast Regional Medical Center
+Northeastern Health System Tahlequah
+Northeastern Nevada Regional Hospital
+Northern Dutchess Hospital
+Northern Light A.R. Gould Hospital
+Northern Light Eastern Maine Medical Center
+Northern Light Health Mercy Hospital
+Northern Light Inland Hospital
+Northern Light Maine Coast Hospital
+Northern Maine Medical Center
+Northern Montana Hospital
+Northern Nevada Medical Center
+Northern Westchester Hospital
+Northfield Hospital
+Northport Medical Center
+Northridge Hospital Medical Center-Roscoe Boulevard Campus
+Northside Hospital Atlanta
+Northside Hospital Cherokee
+Northside Hospital Forsyth
+Northwest Community Hospital
+Northwest Hospital
+Northwest Hospital and Medical Center
+Northwest Medical Center
+Northwest Medical Center
+Northwest Medical Center
+Northwest Medical Center - Bentonville
+Northwest Mississippi Medical Center
+Northwest Texas Healthcare System
+Northwestern Medical Center
+Northwestern Medicine Central DuPage Hospital
+Northwestern Medicine Delnor Hospital
+Northwestern Medicine Huntley Hospital
+Northwestern Medicine Kishwaukee Hospital
+Northwestern Medicine McHenry Hospital
+Northwestern Medicine, Lake Forest Hospital
+Northwestern Memorial Hospital
+Norton Audubon Hospital
+Norton Brownsboro Hospital
+Norton Community Hospital
+Norton Women's & Children's Hospital
+Norwegian American Hospital
+Norwood Hospital
+Novant Health Brunswick Medical Center
+Novant Health Forsyth Medical Center
+Novant Health Huntersville Medical Center
+Novant Health Kernersville Medical Center
+Novant Health Matthews Medical Center
+Novant Health Medical Park Hospital
+Novant Health Presbyterian Medical Center
+Novant Health Rowan Medical Center
+Novant Health Thomasville Medical Center
+Novant Health UVA Health System Culpeper Medical Center
+Novant Health UVA Health System Haymarket Medical Center
+Novant Health UVA Health System Prince William Medical Center
+Novato Community Hospital
+Noyes Memorial Hospital
+O'Connor Hospital
+OCH Regional Medical Center
+OHSU - Marquam Hill Campus
+ONSLOW MEMORIAL HOSPITAL
+OSF HealthCare Saint Francis Medical Center
+OSF Heart of Mary Medical Center
+OSF Sacred Heart Medical Center
+OSF Saint Anthony Medical Center
+OSF Saint Anthony's Health Center
+OSF St. Joseph Medical Center
+OSF St. Mary Medical Center
+OU Medical Center
+OU Medical Center Edmond
+Oak Hill Hospital
+Oakbend Medical Center - Jackson Street Campus
+Oakbend Medical Center - Williams Way Campus
+Ocala Regional Medical Center
+Ocean Medical Center
+Ocean Springs Hospital
+Ochsner Baptist Medical Center
+Ochsner LSU Health Shreveport
+Ochsner Medical Center - Kenner
+Ochsner Medical Center - New Orleans
+Ochsner Medical Center - North Shore
+Ochsner Medical Center - West Bank
+Ochsner Medical Center-Baton Rouge
+Ochsner St. Mary
+Odessa Regional Medical Center
+Ogden Regional Medical Center
+Ohio Health - Marion General Hospital
+Ohio Valley General Hospital
+OhioHealth - O'Bleness Hospital
+OhioHealth Doctors Hospital
+OhioHealth Dublin Methodist Hospital
+OhioHealth Grady Memorial Hospital
+OhioHealth Grant Medical Center
+OhioHealth Mansfield Hospital
+OhioHealth Riverside Methodist Hospital
+Olathe Medical Center
+Olean General Hospital
+Olympic Medical Center
+Oneida Healthcare
+Opelousas General Health System
+Orange County Global Medical Center
+Orange Park Medical Center
+Orange Regional Medical Center
+Orlando Health South Lake Hospital
+Orlando Health Dr. P. Phillips Hospital
+Orlando Health Health Central Hospital
+Orlando Health South Seminole Hospital
+Orlando Health- Orlando Regional Medical Center
+Oroville Hospital
+Osborn Medical Center
+Osceola Regional Medical Center
+Oswego Hospital
+Otsego Memorial Hospital
+Ottawa Regional Hospital and Healthcare Center dba OSF Saint Elizabeth Medical Center
+Ottumwa Regional Health Center
+Ouachita County Medical Center
+Our Lady of Bellefonte Hospital
+Our Lady of Lourdes Regional Medical Center
+Our Lady of The Lake Regional Medical Center
+Our Lady of the Angels Hospital
+Our Lady of the Lake Ascension
+Overlake Hospital Medical Center
+Overland Park Regional Medical Center
+Overlook Medical Center
+Oviedo Medical Center
+Owensboro Health
+Ozarks Medical Center
+PIH Health Hospital - Downey
+PIH Health Hospital - Whittier
+Palestine Regional Medical Center-East
+Pali Momi Medical Center
+Palm Bay Hospital
+Palm Beach Gardens Medical Center
+Palmdale Regional Medical Center
+Palmetto General Hospital
+Palms West Hospital
+Palms of Pasadena Hospital
+Palomar Medical Center
+Palos Community Hospital
+Paoli Hospital
+Paradise Valley Hospital
+Parham Doctors' Hospital
+Paris Regional Medical Center
+Park City Hospital
+Park Nicollet Methodist Hospital
+Parkland Health & Hospital System
+Parkland Health Center of Farmington
+Parkland Medical Center
+Parkridge East Hospital
+Parkridge Medical Center
+Parkview Community Hospital Medical Center
+Parkview Medical Center
+Parkview Regional Medical Center
+Parkwest Medical Center
+Parrish Medical Center
+Passavant Area Hospital
+PeaceHealth Sacred Heart Medical Center at RiverBend
+PeaceHealth Southwest Medical Center
+PeaceHealth St. John Medical Center
+PeaceHealth St. Joseph Medical Center
+Peconic Bay Medical Center
+Pelham Medical Center
+Pen Bay Medical Center
+Peninsula Regional Medical Center
+Penn Highlands Huntingdon
+Penn Medicine Princeton Medical Center
+Penn Presbyterian Medical Center
+Penn State Milton S. Hershey Medical Center
+Pennsylvania Hospital
+Petaluma Valley Hospital
+Peterson Regional Medical Center
+Phelps Health
+Phelps Hospital
+Phoebe Putney Memorial Hospital
+Phoebe Sumter Medical Center
+Phoenixville Hospital
+Piedmont Athens Regional Medical Center
+Piedmont Columbus Regional Midtown
+Piedmont Columbus Regional Northside
+Piedmont Fayette Hospital
+Piedmont Henry Hospital
+Piedmont Hospital
+Piedmont Medical Center
+Piedmont Mountainside Hospital
+Piedmont Newnan Hospital
+Piedmont Newton Hospital
+Piedmont Rockdale Hospital
+Piedmont Walton
+Pikeville Medical Center
+Pioneers Memorial Hospital
+Placentia-Linda Hospital
+Plains Regional Medical Center
+Plainview Hospital
+Plantation General Hospital
+Platte Valley Medical Center
+Pleasant Valley Hospital
+Poinciana Medical Center
+Pomerado Hospital
+Pomona Valley Hospital Medical Center
+Poplar Bluff RMC - Oak Grove
+Portneuf Medical Center
+Portsmouth Regional Hospital
+Pottstown Hospital
+Prairie Lakes Healthcare System
+Pratt Regional Medical Center
+Prattville Baptist Hospital
+Presbyterian Espanola Hospital
+Presbyterian Hospital
+Presbyterian Rust Medical Center
+Presbyterian-St. Luke's Medical Center
+Princeton Baptist Medical Center
+Princeton Community Hospital
+Prisma Health Baptist
+Prisma Health Baptist Easley Hospital
+Prisma Health Baptist Parkridge
+Prisma Health Greenville Memorial Hospital
+Prisma Health Greer Memorial Hospital
+Prisma Health Hillcrest Hospital
+Prisma Health Laurens County Hospital
+Prisma Health Oconee Memorial Hospital
+Prisma Health Richland
+Prisma Health Tuomey Hospital
+ProHealth Oconomowoc Memorial Hospital
+ProHealth Waukesha Memorial Hospital
+ProMedica Bay Park Hospital
+ProMedica Bixby Hospital
+ProMedica Flower Hospital
+ProMedica Memorial Hospital
+ProMedica Monroe Regional Hospital
+Progress West Hospital
+Promedica Toledo Hospital
+Providence Alaska Medical Center
+Providence Centralia Hospital
+Providence Health
+Providence Health Center
+Providence Holy Cross Medical Center
+Providence Holy Family Hospital
+Providence Hospital
+Providence Little Company of Mary Medical Center San Pedro
+Providence Little Company of Mary Medical Center Torrance
+Providence Medford Medical Center
+Providence Medical Center
+Providence Milwaukie Hospital
+Providence Newberg Medical Center
+Providence Portland Medical Center
+Providence Regional Medical Center Everett
+Providence Sacred Heart Medical Center
+Providence Saint John's Health Center
+Providence Saint Joseph Medical Center of Burbank
+Providence St. Mary Medical Center
+Providence St. Patrick Hospital
+Providence St. Peter Hospital
+Providence St. Vincent Medical Center
+Providence Tarzana Medical Center
+Providence Willamette Falls Medical Center
+Punxsutawney Area Hospital
+Putnam Community Medical Center
+Putnam Hospital Center
+Queen of the Valley Medical Center
+RCHP Billings-Missoula LLC DBA Community Medical Center
+REGIONAL MEDICAL CENTER BAYONET POINT
+RMC Anniston
+Raleigh General Hospital
+Rancho Springs Medical Center
+Randolph Health
+Rapides Regional Medical Center
+Raritan Bay Medical Center of Old Bridge
+Raritan Bay Medical Center of Perth Amboy
+Raulerson Hospital
+Reading Hospital
+Redlands Community Hospital
+Redmond Regional Medical Center
+Regional Health Rapid City Hospital
+Regional Health Spearfish Hospital
+Regional Hospital of Scranton
+Regional Medical Center
+Regional Medical Center of Orangeburg and Calhoun Counties
+Regional Medical Center of San Jose
+Regional One Health
+Regions Hospital
+Rehoboth McKinley Christian Health Care Services
+Reid Health
+Renown Regional Medical Center
+Renown South Meadows Medical Center
+Research Medical Center Main Campus
+Resolute Health Hospital
+Reston Hospital Center
+Retreat Doctors' Hospital
+Rex Hospital, Inc.
+Reynolds Memorial Hospital
+Rhode Island Hospital
+Rice Memorial Hospital
+Richmond University Medical Center
+Riddle Hospital
+Ridgeview Medical Center
+Rio Grande Regional Hospital
+Riverside Community Hospital
+Riverside Doctors' Hospital Williamsburg
+Riverside Medical Center
+Riverside Regional Medical Center
+Riverside Tappahannock Hospital
+Riverside University Health System - Medical Center
+Riverside Walter Reed Hospital
+Riverton Hospital
+Riverview Hospital
+Riverview Medical Center
+Riverview Regional Medical Center
+Roane Medical Center
+Robert Wood Johnson University Hospital
+Robert Wood Johnson University Hospital Rahway
+Robert Wood Johnson University Hospital Somerset
+Robert Wood Johnson University Hospital at Hamilton
+Rochester General Hospital
+Rockledge Regional Medical Center
+Rome Memorial Hospital
+Roper Hospital
+Rose Medical Center
+Rush Copley Medical Center
+Rush Foundation Hospital
+Rush Oak Park Hospital
+Rush University Medical Center
+Rutherford Regional Medical Center
+Rutland Regional Medical Center
+SHEA MEDICAL CENTER
+SOUTH BAY HOSPITAL
+SSM Health DePaul Hospital-St. Louis
+SSM Health Good Samaritan Hospital - Mount Vernon
+SSM Health Saint Louis University Hospital
+SSM Health St. Anthony Hospital-Oklahoma City
+SSM Health St. Clare Hospital - Baraboo
+SSM Health St. Clare Hospital - St. Louis
+SSM Health St. Joseph Hospital - Lake St. Louis
+SSM Health St. Joseph Hospital-St. Charles
+SSM Health St. Mary's Hospital - Audrain
+SSM Health St. Mary's Hospital - Janesville
+SSM Health St. Mary's Hospital - Jefferson City
+SSM Health St. Mary's Hospital - Madison
+SSM Health St. Mary's Hospital - St. Louis
+SSM Health St. Mary's Hospital-Centralia
+SUNY Downstate Medical Center University Hospital of Brooklyn
+SUNY Upstate Medical University Hospital
+Sacred Heart Hospital On The Emerald Coast
+Sacred Heart Hospital Pensacola
+SageWest Health Care - Lander
+Saint Agnes Medical Center
+Saint Alphonsus Medical Center - Nampa
+Saint Alphonsus Medical Center - Ontario
+Saint Alphonsus Regional Medical Center - Boise
+Saint Anne's Hospital
+Saint Barnabas Medical Center
+Saint Clare's Hospital of Denville
+Saint Clare's Hospital of Dover
+Saint Francis Hospital
+Saint Francis Hospital - Bartlett
+Saint Francis Hospital -Memphis
+Saint Francis Hospital Muskogee
+Saint Francis Hospital South
+Saint Francis Medical Center
+Saint Francis Memorial Hospital
+Saint Joseph - London
+Saint Joseph East
+Saint Joseph Health Mishawaka Medical Center
+Saint Joseph Health Plymouth Medical Center
+Saint Joseph Hospital
+Saint Joseph Hospital
+Saint Joseph Mount Sterling
+Saint Luke's East Hospital
+Saint Luke's Hospital of Kansas City
+Saint Luke's North Hospital - Barry Road
+Saint Luke's South Hospital
+Saint Mary's Hospital
+Saint Michael's Medical Center
+Saint Peter's University Hospital
+Saint Thomas Midtown Hospital
+Saint Thomas Rutherford Hospital
+Saint Thomas West Hospital
+Saint Vincent Hospital
+Salem Medical Center
+Salina Regional Health Center
+Salinas Valley Memorial Healthcare System
+Saline Memorial Hospital
+Salt Lake Regional Medical Center
+Samaritan Albany General Hospital
+Samaritan Hospital
+Samaritan Hospital - Main Campus
+Samaritan Medical Center
+Sampson Regional Medical Center
+San Angelo Community Medical Center
+San Antonio Regional Hospital
+San Dimas Community Hospital
+San Gabriel Valley Medical Center
+San Gorgonio Memorial Hospital
+San Joaquin General Hospital
+San Juan Regional Medical Center
+San Leandro Hospital
+San Mateo Medical Center
+San Ramon Regional Medical Center
+Sanford Aberdeen Medical Center
+Sanford Bemidji Medical Center
+Sanford Broadway Medical Center
+Sanford Medical Center - Bismarck
+Sanford Medical Center Fargo
+Sanford USD Medical Center
+Santa Barbara Cottage Hospital
+Santa Clara Valley Medical Center
+Santa Rosa Memorial Hospital
+Santiam Hospital
+Sarah Bush Lincoln Health Center
+Sarasota Memorial Hospital
+Saratoga Hospital
+Sauk Prarie Hospital
+Scenic Mountain Medical Center
+Schneck Medical Center
+Scotland Health Care System
+Scripps Green Hospital
+Scripps Memorial Hospital of Encinitas
+Scripps Memorial Hospital of La Jolla
+Scripps Mercy Hospital of Chula Vista
+Scripps Mercy Hospital of San Diego
+Sebastian River Medical Center
+Self Regional Healthcare
+Sentara Albemarle Medical Center
+Sentara CarePlex Hospital
+Sentara Halifax Regional Hospital
+Sentara Leigh Hospital
+Sentara Martha Jefferson Hospital
+Sentara Norfolk General Hospital
+Sentara Northern Virginia Medical Center
+Sentara Obici Hospital
+Sentara Princess Anne Hospital
+Sentara RMH Medical Center
+Sentara Virginia Beach General Hospital
+Sentara Williamsburg Regional Medical Center
+Sequoia Hospital
+Seton Medical Center
+Seton Medical Center Austin
+Seton Medical Center Harker Heights
+Seton Medical Center Hays
+Seton Medical Center Williamson
+Seton Northwest Hospital
+Shannon Medical Center
+Sharon Hospital
+Sharon Regional Medical Center
+Sharp Chula Vista Medical Center
+Sharp Coronado Hospital and Healthcare Center
+Sharp Grossmont Hospital
+Sharp Memorial Hospital
+Shasta Regional Medical Center
+Shelby Baptist Medical Center
+Sherman Oaks Hospital
+Shore Medical Center
+Sibley Memorial Hospital
+Sierra Nevada Memorial Hospital
+Sierra View Medical Center
+Sierra Vista Regional Medical Center
+Signature Healthcare Brockton Hospital
+Silver Cross Hospital
+Sinai Hospital of Baltimore
+Sinai-Grace Hospital
+Singing River Hospital
+Skagit Valley Hospital
+Sky Lakes Medical Center
+Sky Ridge Medical Center
+Slidell Memorial Hospital
+South Baldwin Regional Medical Center
+South Central Regional Medical Center
+South County Hospital
+South Florida Baptist Hospital
+South Georgia Medical Center
+South Nassau Communities Hospital
+South Shore Hospital
+Southampton Hospital
+Southeast Georgia Health System - Brunswick Campus
+Southeast Georgia Health System - Camden Campus
+Southeast Health
+Southeast Hospital
+Southeastern Ohio Regional Medical Center
+Southeastern Regional Medical Center
+Southern Hills Hospital and Medical Center
+Southern New Hampshire Medical Center
+Southern Ocean Medical Center
+Southern Ohio Medical Center
+Southern Regional Medical Center
+Southern Tennessee Regional Health System Sewanee
+Southern Tennessee Regional Health System Winchester
+Southside Hospital
+Southside Regional Medical Center
+Southwest General Health Center
+Southwest General Hospital
+Southwest Medical Center
+Southwest Mississippi Regional Medical Center
+Southwestern Medical Center
+Southwestern Vermont Medical Center
+Sovah Health Martinsville
+Sparrow Hospital & Health System
+Spartanburg Medical Center - Mary Black Campus
+Spartanburg Regional Medical Center
+Spectrum Health Big Rapids Hospital
+Spectrum Health Blodgett Hospital
+Spectrum Health Butterworth Hospital
+Spectrum Health Ludington Hospital
+Spectrum Health United Hospital
+Spectrum Health Zeeland Community Hospital
+Spencer Hospital
+Spotsylvania Regional Medical Center
+Spring Valley Hospital Medical Center
+Springhill Medical Center
+St Catherine Hospital
+St John's Riverside Hospital
+St John's Riverside Hospital - Dobbs Ferry Pavilion
+St John's Riverside Hospital - ParkCare Pavilion
+St Joseph Regional Health Network dba St Joseph Medical Center
+St Joseph's Hospital
+St Mary Medical Center
+St Mary Medical Center
+St Mary's Hospital
+St Peter's Hospital
+St Vincent Anderson Regional Hospital
+St Vincent Hospital
+St. Agnes Hospital
+St. Alexius Hospital - Broadway Campus
+St. Anthony Hospital
+St. Anthony Regional Hospital
+St. Anthony Shawnee Hospital
+St. Anthony's Hospital
+St. Barnabas Hospital
+St. Bernards Medical Center
+St. Catherine Hospital
+St. Catherine of Siena Medical Center
+St. Charles Health System - Bend
+St. Charles Health System - Redmond
+St. Charles Hospital
+St. Clair Hospital
+St. Claire Regional Medical Center
+St. Clare Hospital
+St. Cloud Hospital
+St. Cloud Regional Medical Center
+St. David's Georgetown Hospital
+St. David's Medical Center
+St. David's North Austin Medical Center
+St. David's Round Rock Medical Center
+St. David's South Austin Medical Center
+St. Dominic-Jackson Memorial Hospital
+St. Elizabeth Boardman Hospital
+St. Elizabeth Community Hospital
+St. Elizabeth Healthcare - Edgewood
+St. Elizabeth Healthcare - Florence
+St. Elizabeth Healthcare - Ft. Thomas
+St. Elizabeth Medical Center
+St. Elizabeth Youngstown Hosptial
+St. Elizabeth's Medical Center
+St. Francis Eastside
+St. Francis Health, LLC
+St. Francis Hospital & Medical Center
+St. Francis Hospital - Downtown
+St. Francis Hospital of Federal Way
+St. Francis Hospital, The Heart Center
+St. Francis Medical Center
+St. Francis Medical Center
+St. Francis Medical Center of Trenton
+St. Francis Regional Medical Center
+St. James Healthcare
+St. John Medical Center
+St. John's Episcopal Hospital
+St. John's Medical Center
+St. John's Pleasant Valley Hospital
+St. John's Regional Medical Center of Oxnard
+St. Joseph Hospital
+St. Joseph Hospital of Bangor
+St. Joseph Hospital of Eureka
+St. Joseph Hospital of Fort Wayne
+St. Joseph Hospital of Nashua
+St. Joseph Hospital of Orange
+St. Joseph Medical Center
+St. Joseph Medical Center
+St. Joseph Medical Center of Tacoma
+St. Joseph Mercy - Chelsea
+St. Joseph Mercy Hospital, Ann Arbor
+St. Joseph Mercy Livingston Hospital
+St. Joseph Mercy Oakland
+St. Joseph Regional Medical Center
+St. Joseph Warren Hospital
+St. Joseph's Hospital
+St. Joseph's Hospital
+St. Joseph's Hospital & Medical Center
+St. Joseph's Hospital - South
+St. Joseph's Hospital Health Center
+St. Joseph's Hospital North
+St. Joseph's Medical Center of Stockton
+St. Joseph's Medical Center of Yonkers
+St. Joseph's University Medical Center
+St. Joseph's Wayne Medical Center
+St. Joseph's Westgate Medical Center
+St. Jude Medical Center
+St. Louise Regional Hospital
+St. Lucie Medical Center
+St. Luke's Baptist Hospital
+St. Luke's Boise Medical Center
+St. Luke's Cornwall Hospital Cornwall Campus
+St. Luke's Cornwall Hospital Newburgh Campus
+St. Luke's Des Peres Hospital
+St. Luke's Gnaden Huetten Campus
+St. Luke's Hospital
+St. Luke's Hospital
+St. Luke's Hospital
+St. Luke's Hospital
+St. Luke's Hospital - Allentown Campus
+St. Luke's Hospital - Anderson Campus
+St. Luke's Hospital - Miners Campus
+St. Luke's Magic Valley Medical Center
+St. Luke's Medical Center
+St. Luke's Meridian Medical Center
+St. Luke's Monroe Campus
+St. Luke's Patients Medical Center
+St. Luke's Quakertown Hospital
+St. Luke's Sacred Heart Campus
+St. Luke's University Hospital - Bethlehem Campus
+St. Luke's Warren Campus
+St. Margaret's Hospital
+St. Mark's Hospital
+St. Mary Medical Center
+St. Mary Medical Center of Long Beach
+St. Mary Mercy Hospital
+St. Mary's General Hospital
+St. Mary's Health Care System, Inc.
+St. Mary's Hospital and Medical Center
+St. Mary's Medical Center
+St. Mary's Medical Center
+St. Mary's Medical Center
+St. Mary's Medical Center
+St. Mary's Medical Center of Evansville
+St. Mary's Regional Medical Center
+St. Mary's Regional Medical Center
+St. Mary's Regional Medical Center of Reno
+St. Mary's Sacred Heart Hospital
+St. Petersburg General Hospital
+St. Rita's Medical Center
+St. Rose Dominican Hospitals - San Martin Campus
+St. Rose Dominican Hospitals - Siena Campus
+St. Tammany Parish Hospital
+St. Vincent Carmel Hospital
+St. Vincent Charity Medical Center
+St. Vincent Healthcare
+St. Vincent Indianapolis Hospital
+St. Vincent Kokomo
+St. Vincent Medical Center of Los Angeles
+St. Vincent's Birmingham
+St. Vincent's East
+St. Vincent's Medical Center
+St. Vincent's Medical Center Clay County
+St. Vincent's Medical Center Southside
+Stafford Hospital
+Stamford Health
+Stanford Health Care
+Stanford Health Care - ValleyCare
+Starr Regional Medical Center
+Staten Island University Hospital
+Stephens County Hospital
+Steward Good Samaritan Medical Center, Inc.
+Stillwater Medical Center
+StoneSprings Hospital Center
+Stonewall Jackson Memorial Hospital
+Stony Brook University Hospital
+Stormont Vail Health
+Straub Clinic & Hospital
+Strong Memorial Hospital
+Sts. Mary & Elizabeth Hospital
+Sturdy Memorial Hospital
+Suburban Community Hospital
+Suburban Hospital
+Summa Health System, Akron Campus
+Summa Health, Barberton Campus
+Summerlin Hospital Medical Center
+Summerville Medical Center
+Summit Healthcare Regional Medical Center
+Sumner Regional Medical Center
+Sunrise Hospital and Medical Center
+Susan B. Allen Memorial Hospital
+Sutter Amador Hospital
+Sutter Auburn Faith Hospital
+Sutter Coast Hospital
+Sutter Davis Hospital
+Sutter Delta Medical Center
+Sutter East Bay Hospitals dba Alta Bates Summit Medical Center Alta Bates Campus
+Sutter Medical Center Sacramento
+Sutter Roseville Medical Center
+Sutter Santa Rosa Regional Hospital
+Sutter Solano Medical Center
+Sutter Tracy Community Hospital
+Swedish American Hospital
+Swedish Covenant Hospital
+Swedish Edmonds Hospital
+Swedish Health Services Issaquah
+Swedish Medical Center
+Swedish Medical Center Ballard
+Swedish Medical Center Cherry Hill
+Swedish Medical Center First Hill
+Sycamore Shoals Hospital
+Syosset Hospital
+T. J. Samson Community Hospital
+THOMPSON PEAK HOSPITAL
+Tacoma General Hospital
+Tallahassee Memorial Healthcare
+Tampa General Hospital
+Tanner Medical Center of Carrollton
+Tanner Medical Center of Villa Rica
+Taylor Regional Hospital
+Temecula Valley Hospital
+Tempe St. Luke's Hospital
+Temple University Hospital
+Tennova Healthcare - Cleveland Main Campus
+Tennova Healthcare-Shelbyville
+Terre Haute Regional Hospital
+Terrebonne General Medical Center
+Texas Health Arlington Memorial Hospital
+Texas Health Harris Methodist Hospital Alliance
+Texas Health Harris Methodist Hospital Cleburne
+Texas Health Harris Methodist Hospital Fort Worth
+Texas Health Harris Methodist Hospital Hurst-Euless-Bedford
+Texas Health Harris Methodist Hospital Southwest Fort Worth
+Texas Health Harris Methodist Hospital Stephenville
+Texas Health Huguley Hospital
+Texas Health Presbyterian Hospital Dallas
+Texas Health Presbyterian Hospital Denton
+Texas Health Presbyterian Hospital Flower Mound
+Texas Health Presbyterian Hospital Plano
+Texas Health Presbyterian Hospital Rockwall
+Texas Health Resources Allen
+Texoma Medical Center
+The Bellevue Hospital
+The Brooklyn Hospital Center
+The Christ Hospital
+The Hospital of Central Connecticut
+The Hospitals of Providence - Sierra Campus
+The Hospitals of Providence East Campus
+The Hospitals of Providence Memorial Campus
+The Johns Hopkins Hospital
+The Medical Center of Southeast Texas
+The Medical Center of Southeast Texas Beaumont Campus
+The Medical Center, Navicent Health
+The Miriam Hospital
+The Mount Sinai Hospital
+The Ohio State University Hospital East
+The Ohio State University Wexner Medical Center
+The Queen's Medical Center
+The Queen's Medical Center West Oahu
+The University of Kansas Hospital
+The University of Tennessee Medical Center
+The Valley Hospital
+The Villages Regional Hospital
+The William W. Backus Hospital
+ThedaCare Regional Medical Center-Appleton
+ThedaCare Regional Medical Center-Neenah
+Thibodaux Regional Medical Center
+Thomas Hospital
+Thomas Jefferson University Hospital
+Thomas Jefferson University Hospital - Methodist Hospital Campus
+Thomas Memorial Hospital
+Tidelands Health Georgetown Memorial Hospital
+Tidelands Health Waccamaw Community Hospital
+Tift Regional Medical Center
+Timpanogos Regional Hospital
+Titus County Hospital District dba Titus Regional Medical Center
+Tobey Hospital
+Torrance Memorial Medical Center
+Touro Infirmary
+Tri-City Medical Center of Oceanside
+TriStar Greenview Regional Hospital
+TriStar Southern Hills Medical Center
+TriStar StoneCrest Medical Center
+TriStar Summit Medical Center
+Trident Medical Center
+Trinitas Regional Medical Center
+Trinity Hospital
+Trinity Medical Center West
+Trinity Moline
+Trinity Rock Island
+Trios Southridge Hospital
+Trios Women's and Children's Hospital
+Tristar Centennial Medical Center
+Tristar Hendersonville Medical Center
+Tristar Horizon Medical Center
+Tristar Skyline Medical Center
+Truman Medical Center Hospital Hill
+Trumbull Memorial Hospital
+Tuality Community Hospital
+Tuba City Regional Health Care Corporation
+Tucson Medical Center
+Tufts Medical Center
+Tug Valley ARH Regional Medical Center
+Tulane Lakeside Hospital
+Tulane University Hospital and Clinic
+Turkey Creek Medical Center
+Twin Cities Community Hospital
+Twin Cities Hospital
+Twin County Regional Healthcare
+U Mass Memorial Medical Center - Memorial Campus
+U Mass Memorial Medical Center - University Campus
+UAB Highlands
+UAMS Medical Center
+UC San Diego Health Hillcrest - Hillcrest Medical Center
+UC San Diego Health La Jolla - Jacobs Medical Center and Sulpizio Cardiovascular Center
+UCHealth Medical Center of the Rockies
+UCHealth Memorial Hospital Central
+UCHealth Poudre Valley Hospital
+UCHealth University of Colorado Hospital
+UCHealth Yampa Valley Medical Center
+UCLA Medical Center of Santa Monica
+UCSF Health - Mission Bay
+UCSF Medical Center Moffitt-Long Hospitals
+UF Health Jacksonville
+UF Health North
+UF Health Shands Hospital
+UH Cleveland Medical Center
+UHS - Binghamton General Hospital
+UHS Wilson Medical Center
+UK Good Samaritan Hospital
+UM Baltimore Washington Medical Center
+UM Harford Memorial Hospital
+UNC Rockingham Hospital
+UNM Sandoval Regional Medical Center
+UP Health System - Marquette
+UP Health System - Portage
+UPMC Altoona
+UPMC Bedford Memorial
+UPMC Carlisle
+UPMC Chautauqua
+UPMC Community
+UPMC East
+UPMC Hamot
+UPMC Harrisburg
+UPMC Horizon - Greenville Campus
+UPMC Horizon - Shenango Valley Campus
+UPMC Jameson
+UPMC McKeesport
+UPMC Mercy
+UPMC Northwest
+UPMC PASSAVANT
+UPMC Passavant - Cranberry
+UPMC Pinnacle Hanover
+UPMC Pinnacle Lititz
+UPMC Pinnacle Memorial
+UPMC Presbyterian
+UPMC ST MARGARET
+UPMC Shadyside
+UPMC Somerset
+UPMC Susquehanna - Williamsport
+UPMC West Shore
+USC Verdugo Hills Hospital
+USMD Hospital at Arlington
+UT Health Athens
+UT Health Jacksonville
+UT Health North Campus Tyler
+UT Health Tyler
+UT Southwestern Zale Lipshy Pavilion at William P. Clements Jr. University Hospital
+UTMB Health Angleton Danbury Campus
+UTMB Health League City Campus Hospital
+Union General Hospital
+Union Hospital
+Union Hospital
+Union Hospital
+Uniontown Hospital
+United Hospital
+United Hospital Center
+United Memorial Medical Center
+United Regional Health Care System
+Unity Health Harris Medical Center
+Unity Health White County Medical Center
+Unity Hospital
+UnityPoint Health - Finley Hospital
+UnityPoint Health - Marshalltown
+UnityPoint Health - Meriter
+UnityPoint Health - Methodist
+UnityPoint Health - Proctor
+UnityPoint Health - St Luke's Hospital in Cedar Rapids
+UnityPoint Health - St. Luke's Regional Medical Center of Sioux City
+UnityPoint Health - Trinity Bettendorf
+UnityPoint Health - Trinity Muscatine
+UnityPoint Health - Trinity Regional Medical Center
+UnityPoint Health-Pekin
+University Health Conway
+University Health System
+University Hospital
+University Hospital
+University Hospital
+University Hospital
+University Hospital and Clinics
+University Hospital and Medical Center
+University Hospitals Ahuja Medical Center
+University Hospitals Bedford Medical Center
+University Hospitals Elyria Medical Center
+University Hospitals Geauga Medical Center
+University Hospitals Parma Medical Center
+University Hospitals Portage Medical Center
+University Hospitals Richmond Medical Center
+University Hospitals St. John Medical Center
+University Medical Center
+University Medical Center New Orleans
+University Medical Center of El Paso
+University Medical Center of Southern Nevada
+University of Alabama Hospital
+University of California Davis Medical Center
+University of California Irvine Health
+University of California Ronald Reagan UCLA Medical Center
+University of Chicago Medical Center
+University of Cincinnati Medical Center
+University of Connecticut Health Center, John Dempsey Hospital
+University of Illinois Hospital
+University of Iowa Hospitals and Clinics
+University of Kansas Health System St Francis Campus
+University of Kentucky Albert B. Chandler Hospital
+University of Louisville Hospital
+University of Maryland Charles Regional Medical Center
+University of Maryland Medical Center
+University of Maryland Medical Center Midtown Campus
+University of Maryland Prince George's Hospital Center
+University of Maryland Shore Medical Center at Chestertown
+University of Maryland Shore Medical Center at Dorchester
+University of Maryland Shore Medical Center at Easton
+University of Maryland St. Joseph Medical Center
+University of Maryland Upper Chesapeake Medical Center
+University of Minnesota Medical Center - West Bank Campus
+University of Mississippi Medical Center
+University of Mississippi Medical Center Grenada
+University of New Mexico Hospital
+University of North Carolina Hospitals
+University of Texas Medical Branch - Galveston
+University of Toledo Medical Center
+University of Utah Hospital
+University of Vermont Medical Center
+University of Virginia Medical Center
+University of Washington Medical Center
+University of Wisconsin Hospitals and Clinics
+Upper Valley Medical Center
+Upson Regional Medical Center
+Upstate University Hospital - Community Campus
+Utah Valley Hospital
+VCU Health Community Memorial Hospital
+VCU Medical Center Main Hospital
+Vail Health
+Valley Baptist Medical Center-Brownsville
+Valley Baptist Medical Center-Harlingen
+Valley Hospital Medical Center
+Valley Medical Center
+Valley Presbyterian Hospital
+Valley Regional Medical Center
+Valley View Hospital
+Valley View Medical Center
+Van Wert County Hospital
+Vanderbilt University Hospital
+Vassar Brothers Medical Center
+Vaughan Regional Medical Center
+Venice Regional Bayfront Health
+Verde Valley Medical Center
+Via Christi Hospital Manhattan, Inc.
+Via Christi Hospital St. Teresa
+Via Christi Hospital Wichita, St Joseph
+Via Christi Hospitals Wichita - St Francis
+Vidant Beaufort Hospital
+Vidant Duplin Hospital
+Vidant Edgecombe Hospital
+Vidant Medical Center
+Vidant Roanoke-Chowan Hospital
+Viera Hospital
+Virginia Hospital Center--Arlington Health System
+Virginia Mason Medical Center
+Virginia Mason Memorial
+Virtua Marlton Hospital
+Virtua Memorial Hospital
+Virtua Our Lady of Lourdes Hospital
+Virtua Voorhees Hospital
+Virtua Willingboro
+Vista Medical Center East
+WK Pierremont Health Center
+Wadley Regional Medical Center
+Wagoner Community Hospital
+Wake Forest Baptist Health High Point Medical Center
+Wake Forest Baptist Health Wilkes Medical Center
+Wake Forest Baptist Health-Lexington Medical Center
+Wake Forest Baptist Medical Center
+WakeMed Cary Hospital
+WakeMed Raleigh Campus
+Walker Baptist Medical
+War Memorial Hospital
+Warren General Hospital
+Warren Memorial Hospital
+Washington Hospital
+Washington Regional Medical Center
+Watauga Medical Center
+Watertown Regional Medical Center
+Watsonville Community Hospital
+Wayne HealthCare
+Wayne Memorial Hospital
+Wayne UNC Health Care
+Weirton Medical Center
+Weiss Memorial Hospital
+WellSpan Chambersburg Hospital
+WellSpan Ephrata Community Hospital
+WellSpan Gettysburg Hospital
+WellSpan York Hospital
+WellStar Spalding Regional Hospital
+Wellington Regional Medical Center
+Wellspan Good Samaritan Hospital
+Wellstar Cobb Hospital
+Wellstar Douglas Hospital
+Wellstar Kennestone Hospital
+Wellstar Paulding Hospital
+Wellstar West Georgia Medical Center
+Wentworth-Douglass Hospital
+Wesley Long Community
+Wesley Medical Center
+Wesley Woodlawn Hospital & ER
+West Anaheim Medical Center
+West Boca Medical Center
+West Calcasieu Cameron Hospital
+West Chester Hospital
+West Florida Hospital
+West Hills Hospital and Medical Center
+West Jefferson Medical Center
+West Marion Community Hospital
+West Penn Hospital
+West Suburban Medical Center
+West Valley Medical Center
+West Virginia University Hospitals, Inc
+Westchester Medical Center
+Westerly Hospital
+Western Maryland Regional Medical Center
+Western Missouri Medical Center
+Western Plains Medical Complex
+Western Reserve Hospital
+Westmoreland Hospital
+Westside Regional Medical Center
+Wheeling Hospital
+White Plains Hospital
+White River Medical Center
+Whitesburg ARH Hospital
+Whittier Hospital Medical Center
+Wilcox Memorial Hospital
+Wilkes-Barre General Hospital
+Willamette Valley Medical Ctr
+William P. Clements Jr. University Hospital
+Williamson Medical Center
+Willis-Knighton Bossier Health Center
+Willis-Knighton Medical Center
+Willis-Knighton South & the Center for Women's Health
+Wilson Health
+Wilson Medical Center
+Wilson N. Jones Regional Medical Center
+Winchester Hospital
+Winchester Medical Center
+Windham Community Memorial Hospital
+Winona Health
+Winter Haven Hospital
+Wiregrass Medical Center
+Wise Health System - East Campus Decatur
+Witham Health Services
+Wood County Hospital
+Woodland Heights Medical Center
+Woodland Memorial Hospital
+Woodwinds Health Campus
+Wooster Community Hospital
+Wyckoff Heights Medical Center
+Wyoming Medical Center
+Wythe County Community Hospital
+YRMC - West
+Yale-New Haven Hospital
+Yale-New Haven Hospital Saint Raphael Campus
+Yavapai Regional Medical Center - East
+York Hospital
+Yuma Regional Medical Center
+Zuckerberg San Francisco General Hospital and Trauma Center
+Grand University Clinic
+Twin Mountains Clinic
+Silver Oak Hospital Center
+Hillsdale General Hospital
+Overlook Community Hospital
+White Mountain Medical Clinic
+Lilypad Gardens Hospital
+Lifecare General Hospital
+Forest Health Medical Clinic
+Bellevue Clinic
+Little River Medical Center
+Good Samaritan Hospital
+Grand Mountain Clinic
+Citrus Clinic
+Olympus Community Hospital
+Lilypad General Hospital
+Amity Clinic
+Hot Springs Hospital Center
+Repose Clinic
+Riverside General Hospital
+Goldriver Clinic
+Charity Hospital
+Riverside Medical Clinic
+Spring Harbor Medical Center
+White Wing Medical Center
+Light Beacon General Hospital
+Genesis Medical Center
+Snowflake Hospital
+Twin Mountains Medical Clinic
+Paradise Valley Community Hospital
+Fairmont Community Hospital
+Lullaby Clinic
+Healthstone Medical Center
+Genesis Community Hospital
+Orange Garden Community Hospital
+Eden Hospital Center
+Honor Grave Hospital Center
+Hallmark Medical Clinic
+Healthstone Hospital Center
+North Star Community Hospital
+Angelvale Hospital
+Hillsdale Hospital Center
+Pioneer Clinic
+Trinity Community Hospital
+Hallmark Hospital
+Grand Willow General Hospital
+United Medical Clinic
+Forest View Hospital Center
+Paradise Valley General Hospital
+Spring Grove General Hospital
+Hope Haven Community Hospital
+Grand Valley Hospital Center
+Eden Community Hospital
+Goldriver Medical Clinic
+Rose Gardens Hospital Center
+Highland Hospital
